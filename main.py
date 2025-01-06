@@ -61,50 +61,54 @@ def process_pgn_files():
         puzzle_gen.close()
 
 def main():
+    total_puzzles = 0
+
     source = "1" # input("Enter source (1 for chess.com, 2 for lichess PGN files): ")
     
     if source == "1":
-        puzzle_gen = ChessPuzzleGenerator()
-        try:
-            username = input("Enter chess.com username (or press Enter for all players): ").strip() or None
-            print("Fetching recent games...")
-            
-            games = ChessComAPI.get_player_games(username)
-            
-            if not games:
-                print("No games found.")
-                return
-            
-            total_puzzles = 0
-            for game_info in games:
-                #if total_puzzles > 30:
-                #    break
 
-                pgn = ChessComAPI.get_game(game_info)
-                
-                if not pgn:
-                    print("Error: No PGN found for this game.")
-                    continue
-                
-                game = chess.pgn.read_game(io.StringIO(pgn))
-                puzzles = puzzle_gen.find_missed_tactics(game, username)
-                
-                for puzzle in puzzles:
-                    puzzle_id = puzzle_gen.save_puzzle(puzzle, game_info)
-                    total_puzzles += 1
-                    print(f"Created puzzle {puzzle_id}")
-            
-        finally:
-            puzzle_gen.close()
+        for username in ["Mennborg", "Meea", "skarlman"]:
+
+            puzzle_gen = ChessPuzzleGenerator()
+            try:
+#                username = input("Enter chess.com username (or press Enter for all players): ").strip() or None
+                print(f"Fetching recent games for {username}...")
+
+                games = ChessComAPI.get_player_games(username)
+
+                if not games:
+                    print("No games found.")
+                    return
+
+                for game_info in games:
+                    #if total_puzzles > 30:
+                    #    break
+
+                    pgn = ChessComAPI.get_game(game_info)
+
+                    if not pgn:
+                        print("Error: No PGN found for this game.")
+                        continue
+
+                    game = chess.pgn.read_game(io.StringIO(pgn))
+                    puzzles = puzzle_gen.find_missed_tactics(game, username)
+
+                    for puzzle in puzzles:
+                        puzzle_id = puzzle_gen.save_puzzle(puzzle, game_info)
+                        total_puzzles += 1
+                        print(f"Created puzzle {puzzle_id}")
+
+            finally:
+                puzzle_gen.close()
     
     elif source == "2":
         total_puzzles = process_pgn_files()
     else:
         print("Invalid source selected")
-        return
+
 
     print(f"\nTotal puzzles created: {total_puzzles}")
-    
+
     # Generate puzzle index after saving new puzzles
     generate_puzzle_index()
 

@@ -1,0 +1,21 @@
+{
+  "id": "66f279bbf8675b21826168fba26b2982",
+  "position": "rnbqk2r/ppp2pp1/3bpn1p/4N1BQ/3Pp3/2N5/PPP2PPP/R3KB1R b KQkq - 1 7",
+  "best_move": "d6e5",
+  "played_move": "e8g8",
+  "eval_diff": 458,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "skarlman",
+  "game": {
+    "id": "712749385",
+    "white": "Mennborg",
+    "black": "skarlman",
+    "timestamp": 1728792743,
+    "url": "https://www.chess.com/analysis/game/daily/712749385?tab=analysis&move=12",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.07\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"skarlman\"]\n[Result \"0-1\"]\n[CurrentPosition \"rnb2rk1/ppp2pp1/4p2p/4N3/1b1P4/6N1/PPq1QPPP/R3KB1R w KQ - 2 12\"]\n[Timezone \"UTC\"]\n[ECO \"C11\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Classical-Variation\"]\n[UTCDate \"2024.10.07\"]\n[UTCTime \"10:52:39\"]\n[WhiteElo \"622\"]\n[BlackElo \"938\"]\n[TimeControl \"1/259200\"]\n[Termination \"skarlman won on time\"]\n[StartTime \"10:52:39\"]\n[EndDate \"2024.10.13\"]\n[EndTime \"04:12:23\"]\n[Link \"https://www.chess.com/game/daily/712749385\"]\n\n1. e4 {[%clk 71:59:56]} 1... e6 {[%clk 71:59:48]} 2. d4 {[%clk 69:43:25]} 2... d5 {[%clk 70:23:10]} 3. Nc3 {[%clk 71:54:05]} 3... Nf6 {[%clk 70:44:57]} 4. Nf3 {[%clk 69:10:53]} 4... dxe4 {[%clk 71:58:51]} 5. Ne5 {[%clk 71:46:16]} 5... Bd6 {[%clk 71:55:03]} 6. Bg5 {[%clk 50:10:09]} 6... h6 {[%clk 71:56:14]} 7. Qh5 {[%clk 56:48:19]} 7... O-O {[%clk 71:37:11]} 8. Bxf6 {[%clk 71:52:22]} 8... Qxf6 {[%clk 71:54:16]} 9. Nxe4 {[%clk 71:59:19]} 9... Qf5 {[%clk 70:46:03]} 10. Ng3 {[%clk 71:57:48]} 10... Qxc2 {[%clk 71:59:25]} 11. Qe2 {[%clk 62:00:02]} 11... Bb4+ {[%clk 64:03:44]} 0-1\n",
+    "move_number": 7
+  }
+}

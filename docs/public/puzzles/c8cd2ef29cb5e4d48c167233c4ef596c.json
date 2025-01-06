@@ -1,0 +1,21 @@
+{
+  "id": "c8cd2ef29cb5e4d48c167233c4ef596c",
+  "position": "rnbqk1nr/ppp2ppp/3bp3/3p4/3PP3/P1N2N2/1PP2PPP/R1BQKB1R b KQkq - 2 5",
+  "best_move": "d5e4",
+  "played_move": "g8f6",
+  "eval_diff": 345,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "skarlman",
+  "game": {
+    "id": "688421867",
+    "white": "Mennborg",
+    "black": "skarlman",
+    "timestamp": 1723646471,
+    "url": "https://www.chess.com/analysis/game/daily/688421867?tab=analysis&move=8",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.09\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"skarlman\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2qk3/pppb4/3np2r/4nppp/P3N3/7P/1PP2PP1/2R1QRK1 w q - 0 20\"]\n[Timezone \"UTC\"]\n[ECO \"C15\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Winawer-Winckelmann-Riemer-Gambit\"]\n[UTCDate \"2024.08.09\"]\n[UTCTime \"11:37:06\"]\n[WhiteElo \"619\"]\n[BlackElo \"918\"]\n[TimeControl \"1/259200\"]\n[Termination \"skarlman won on time\"]\n[StartTime \"11:37:06\"]\n[EndDate \"2024.08.14\"]\n[EndTime \"14:41:11\"]\n[Link \"https://www.chess.com/game/daily/688421867\"]\n\n1. e4 {[%clk 71:22:17]} 1... e6 {[%clk 71:49:52]} 2. d4 {[%clk 71:57:22]} 2... d5 {[%clk 71:59:48]} 3. Nc3 {[%clk 71:52:06]} 3... Bb4 {[%clk 71:59:19]} 4. a3 {[%clk 61:35:11]} 4... Bd6 {[%clk 65:13:07]} 5. Nf3 {[%clk 67:55:53]} 5... Nf6 {[%clk 71:47:16]} 6. Bg5 {[%clk 71:01:43]} 6... h6 {[%clk 71:50:26]} 7. Bh4 {[%clk 71:56:29]} 7... g5 {[%clk 71:59:35]} 8. Bg3 {[%clk 68:31:51]} 8... dxe4 {[%clk 69:33:38]} 9. Ne5 {[%clk 71:20:34]} 9... Nc6 {[%clk 71:37:04]} 10. Bb5 {[%clk 70:32:03]} 10... Bd7 {[%clk 71:52:26]} 11. O-O {[%clk 71:15:20]} 11... h5 {[%clk 71:58:44]} 12. Qe1 {[%clk 71:32:52]} 12... Nxd4 {[%clk 63:18:58]} 13. Rc1 {[%clk 68:19:21]} 13... Nxb5 {[%clk 71:54:20]} 14. Nxe4 {[%clk 71:52:15]} 14... Ng4 {[%clk 71:58:40]} 15. a4 {[%clk 71:55:39]} 15... f5 {[%clk 71:58:46]} 16. Ng6 {[%clk 71:58:56]} 16... Rh6 {[%clk 71:43:33]} 17. Ne5 {[%clk 71:44:00]} 17... Bxe5 {[%clk 70:43:38]} 18. Bxe5 {[%clk 69:21:35]} 18... Nd6 {[%clk 71:43:20]} 19. h3 {[%clk 71:52:45]} 19... Nxe5 {[%clk 71:56:46]} 0-1\n",
+    "move_number": 5
+  }
+}

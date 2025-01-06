@@ -1,0 +1,21 @@
+{
+  "id": "03e1a29d68c93bdc878d1e227413f6b0",
+  "position": "k2r2r1/pp3p1p/2p2p2/2qR4/2P1bBQ1/P5P1/2P2P1P/R5K1 b - - 8 20",
+  "best_move": "c6d5",
+  "played_move": "d8d5",
+  "eval_diff": 10702,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "skarlman",
+  "game": {
+    "id": "128962389699",
+    "white": "SxsEE",
+    "black": "skarlman",
+    "timestamp": 1735223810,
+    "url": "https://www.chess.com/analysis/game/live/128962389699?tab=analysis&move=38",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.26\"]\n[Round \"-\"]\n[White \"SxsEE\"]\n[Black \"skarlman\"]\n[Result \"1-0\"]\n[CurrentPosition \"k2Q4/pp3p1p/2p2p2/2q5/2P1bB2/P5P1/2P2P1P/R5K1 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Chigorin-Variation-2...c6\"]\n[UTCDate \"2024.12.26\"]\n[UTCTime \"14:29:31\"]\n[WhiteElo \"751\"]\n[BlackElo \"699\"]\n[TimeControl \"600\"]\n[Termination \"SxsEE won by checkmate\"]\n[StartTime \"14:29:31\"]\n[EndDate \"2024.12.26\"]\n[EndTime \"14:36:50\"]\n[Link \"https://www.chess.com/game/live/128962389699\"]\n\n1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:10:00]} 2. Nc3 {[%clk 0:09:53.7]} 2... c6 {[%clk 0:09:58.7]} 3. Nf3 {[%clk 0:09:45.1]} 3... Nf6 {[%clk 0:09:56.7]} 4. e3 {[%clk 0:09:22.5]} 4... Nbd7 {[%clk 0:09:51.6]} 5. Bd3 {[%clk 0:09:17.7]} 5... e5 {[%clk 0:09:46.2]} 6. Nxe5 {[%clk 0:09:07.8]} 6... Nxe5 {[%clk 0:09:43.4]} 7. dxe5 {[%clk 0:09:05.5]} 7... Bb4 {[%clk 0:09:42.8]} 8. exf6 {[%clk 0:08:56.3]} 8... gxf6 {[%clk 0:09:34.1]} 9. a3 {[%clk 0:08:47.8]} 9... Bxc3+ {[%clk 0:09:32.2]} 10. bxc3 {[%clk 0:08:46.3]} 10... Qd6 {[%clk 0:09:26.4]} 11. O-O {[%clk 0:08:43.6]} 11... Be6 {[%clk 0:09:21.6]} 12. e4 {[%clk 0:08:29]} 12... O-O-O {[%clk 0:09:18.7]} 13. Re1 {[%clk 0:08:16.7]} 13... dxe4 {[%clk 0:09:14.4]} 14. Bxe4 {[%clk 0:08:12.5]} 14... Bd5 {[%clk 0:09:12.7]} 15. c4 {[%clk 0:07:57.9]} 15... Bxe4 {[%clk 0:08:47.4]} 16. g3 {[%clk 0:07:29.2]} 16... Qc5 {[%clk 0:08:34]} 17. Qg4+ {[%clk 0:07:03.7]} 17... Kb8 {[%clk 0:08:22.3]} 18. Bf4+ {[%clk 0:06:44.4]} 18... Ka8 {[%clk 0:08:11.9]} 19. Red1 {[%clk 0:06:33.9]} 19... Rhg8 {[%clk 0:08:01.1]} 20. Rd5 {[%clk 0:05:47.6]} 20... Rxd5 {[%clk 0:07:46.1]} 21. Qxg8+ {[%clk 0:05:37.5]} 21... Rd8 {[%clk 0:07:32.2]} 22. Qxd8# {[%clk 0:05:32.8]} 1-0\n",
+    "move_number": 20
+  }
+}

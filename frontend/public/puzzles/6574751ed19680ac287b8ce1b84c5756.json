@@ -1,0 +1,21 @@
+{
+  "id": "6574751ed19680ac287b8ce1b84c5756",
+  "position": "r2q3r/pp2k1b1/n1pRp2p/4P1p1/2P3B1/P1N1BQP1/1P3P1P/4K2R w K - 1 18",
+  "best_move": "d6e6",
+  "played_move": "d6d8",
+  "eval_diff": 9075,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "skarlman",
+  "game": {
+    "id": "716280935",
+    "white": "skarlman",
+    "black": "farmorlena",
+    "timestamp": 1729276544,
+    "url": "https://www.chess.com/analysis/game/daily/716280935?tab=analysis&move=33",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.15\"]\n[Round \"-\"]\n[White \"skarlman\"]\n[Black \"farmorlena\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnk1Q3/p2R4/2p1p2p/1p2P1pB/2P5/P1N1B1P1/1P3P1P/6K1 b - - 5 27\"]\n[Timezone \"UTC\"]\n[ECO \"A45\"]\n[ECOUrl \"https://www.chess.com/openings/Indian-Game-2.Bf4-d6\"]\n[UTCDate \"2024.10.15\"]\n[UTCTime \"19:45:55\"]\n[WhiteElo \"948\"]\n[BlackElo \"707\"]\n[TimeControl \"1/259200\"]\n[Termination \"skarlman won by checkmate\"]\n[StartTime \"19:45:55\"]\n[EndDate \"2024.10.18\"]\n[EndTime \"18:35:44\"]\n[Link \"https://www.chess.com/game/daily/716280935\"]\n\n1. d4 {[%clk 48:42:07]} 1... Nf6 {[%clk 71:04:11]} 2. Bf4 {[%clk 64:22:22]} 2... d6 {[%clk 66:11:09]} 3. c4 {[%clk 71:51:15]} 3... h6 {[%clk 70:43:18]} 4. Nc3 {[%clk 71:51:38]} 4... Bd7 {[%clk 69:20:35]} 5. g3 {[%clk 70:57:11]} 5... Nc6 {[%clk 70:38:23]} 6. d5 {[%clk 71:55:03]} 6... Nb4 {[%clk 71:31:43]} 7. a3 {[%clk 71:59:15]} 7... Na6 {[%clk 71:31:34]} 8. e4 {[%clk 70:25:17]} 8... e5 {[%clk 71:18:26]} 9. dxe6 {[%clk 63:23:02]} 9... fxe6 {[%clk 71:19:21]} 10. e5 {[%clk 71:48:58]} 10... Bc6 {[%clk 68:20:35]} 11. Nf3 {[%clk 71:33:18]} 11... Ng4 {[%clk 71:53:10]} 12. Bh3 {[%clk 71:05:22]} 12... g5 {[%clk 71:28:49]} 13. Bxg4 {[%clk 71:53:13]} 13... Bxf3 {[%clk 71:43:25]} 14. Qxf3 {[%clk 71:07:40]} 14... Kd7 {[%clk 71:46:27]} 15. Be3 {[%clk 71:54:08]} 15... c6 {[%clk 71:14:07]} 16. Rd1 {[%clk 71:33:14]} 16... Bg7 {[%clk 71:51:49]} 17. Rxd6+ {[%clk 71:58:48]} 17... Ke7 {[%clk 71:57:58]} 18. Rxd8 {[%clk 71:44:22]} 18... Rhxd8 {[%clk 71:57:19]} 19. Bh5 {[%clk 71:58:18]} 19... Rf8 {[%clk 71:54:14]} 20. Qe4 {[%clk 70:48:04]} 20... Rfd8 {[%clk 71:23:54]} 21. Qg6 {[%clk 71:42:10]} 21... Rf8 {[%clk 71:07:33]} 22. Qxg7+ {[%clk 71:38:32]} 22... Rf7 {[%clk 71:49:58]} 23. Qxf7+ {[%clk 71:48:15]} 23... Kd8 {[%clk 71:59:07]} 24. O-O {[%clk 71:54:16]} 24... b5 {[%clk 71:55:22]} 25. Rd1+ {[%clk 71:47:57]} 25... Kc8 {[%clk 71:30:48]} 26. Rd7 {[%clk 71:58:53]} 26... Nb8 {[%clk 71:55:53]} 27. Qe8# {[%clk 71:58:25]} 1-0\n",
+    "move_number": 18
+  }
+}

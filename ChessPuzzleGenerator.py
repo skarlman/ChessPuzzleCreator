@@ -17,7 +17,7 @@ class ChessPuzzleGenerator:
             "UCI_Elo": 3000,          # Maximum playing strength
             "Move Overhead": 10,      # Lower values can make engine respond faster
         })
-        self.analysis_depth = 23
+        self.analysis_depth = 20
         self.missed_move_threshold = 150  # centipawns
         self.puzzles_dir = Path("frontend/public/puzzles")
         self.puzzles_dir.mkdir(parents=True, exist_ok=True)
