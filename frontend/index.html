@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Puzzles</title>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="puzzle-layout">
+            <div class="board-container">
+                <div id="board" class="board"></div>
+            </div>
+            <div class="info-container">
+                <div id="status" class="status"></div>
+                <div id="toMove" class="to-move"></div>
+                <div id="puzzleInfo" class="puzzle-info"></div>
+                <div class="button-group">
+                    <button id="showHint" class="hint-button">Show Hint</button>
+                    <button id="nextPuzzle">Next Puzzle</button>
+                </div>
+                <div class="score-container">
+                    <div class="score-header">
+                        <h4>Your Stats</h4>
+                        <button id="clearStats" class="clear-button">Clear Stats</button>
+                    </div>
+                    <div class="score-info">
+                        <div class="score-row">
+                            <span>Total Correct:</span>
+                            <span id="totalCorrect">0</span>
+                        </div>
+                        <div class="score-row">
+                            <span>Total Wrong:</span>
+                            <span id="totalWrong">0</span>
+                        </div>
+                        <div class="score-row">
+                            <span>Success Rate:</span>
+                            <span id="successRate">0%</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="game-selector">
+                    <label for="gameSelect">Select Game:</label>
+                    <select id="gameSelect">
+                        <option value="">All Games</option>
+                    </select>
+                    <div class="filter-options">
+                        <label for="playerSelect">Playing as:</label>
+                        <select id="playerSelect">
+                            <option value="">All Players</option>
+                        </select>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="myMovesOnly">
+                            Only show my moves
+                        </label>
+                    </div>
+                </div>
+                <div class="game-info">
+                    <div class="game-info-header">Game Information</div>
+                    <div class="game-info-row">
+                        <span class="game-info-label">White:</span>
+                        <span class="game-info-value player-name" id="whitePlayer"></span>
+                    </div>
+                    <div class="game-info-row">
+                        <span class="game-info-label">Black:</span>
+                        <span class="game-info-value player-name" id="blackPlayer"></span>
+                    </div>
+                    <div class="game-info-row">
+                        <span class="game-info-label">Date:</span>
+                        <span class="game-info-value" id="gameDate"></span>
+                    </div>
+                    <div class="game-info-row">
+                        <span class="game-info-label">Move:</span>
+                        <span class="game-info-value" id="moveNumber"></span>
+                    </div>
+                    <div class="game-info-row">
+                        <span class="game-info-label">Game Link:</span>
+                        <a id="gameLink" class="game-link" target="_blank">View on Chess.com</a>
+                    </div>
+                    <div class="pgn-container">
+                        <div class="pgn-header">
+                            <h4>Game PGN:</h4>
+                            <button id="copyPgn" class="copy-button">
+                                <span class="copy-text">Copy</span>
+                            </button>
+                        </div>
+                        <pre id="gamePgn" class="pgn-text"></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html> 
