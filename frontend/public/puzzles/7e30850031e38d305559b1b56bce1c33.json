@@ -1,0 +1,21 @@
+{
+  "id": "7e30850031e38d305559b1b56bce1c33",
+  "position": "1r3rk1/p4ppp/3N4/1Bp1pqB1/8/4Q3/PP3PPP/R5K1 b - - 0 19",
+  "best_move": "f5e6",
+  "played_move": "f8d8",
+  "eval_diff": 627,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "749448477",
+    "white": "Meea",
+    "black": "Mennborg",
+    "timestamp": 1735768255,
+    "url": "https://www.chess.com/analysis/game/daily/749448477?tab=analysis&move=36",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.30\"]\n[Round \"-\"]\n[White \"Meea\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"3B2k1/p4ppp/8/1rp1pN2/8/4Q3/PP3PPP/R5K1 b - - 0 21\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Diemer-Gambit\"]\n[UTCDate \"2024.12.30\"]\n[UTCTime \"07:47:08\"]\n[WhiteElo \"587\"]\n[BlackElo \"805\"]\n[TimeControl \"1/86400\"]\n[Termination \"Meea won by resignation\"]\n[StartTime \"07:47:08\"]\n[EndDate \"2025.01.01\"]\n[EndTime \"21:50:55\"]\n[Link \"https://www.chess.com/game/daily/749448477\"]\n\n1. e4 {[%clk 23:59:43]} 1... d5 {[%clk 22:56:05]} 2. Nc3 {[%clk 23:58:07]} 2... Nf6 {[%clk 23:48:37]} 3. d4 {[%clk 23:55:37]} 3... Bg4 {[%clk 17:16:40]} 4. Be2 {[%clk 23:46:47]} 4... Nc6 {[%clk 23:59:12]} 5. Nf3 {[%clk 23:59:20]} 5... Nxe4 {[%clk 23:58:18]} 6. O-O {[%clk 23:58:46]} 6... Bxf3 {[%clk 23:59:23]} 7. Bxf3 {[%clk 23:44:18]} 7... e5 {[%clk 23:59:14]} 8. Qe1 {[%clk 22:50:06]} 8... Nxd4 {[%clk 23:56:01]} 9. Bxe4 {[%clk 23:47:42]} 9... Nxc2 {[%clk 23:59:28]} 10. Qe2 {[%clk 23:57:42]} 10... Nxa1 {[%clk 23:51:17]} 11. Bxd5 {[%clk 23:56:15]} 11... Bd6 {[%clk 23:35:09]} 12. Ne4 {[%clk 23:44:57]} 12... O-O {[%clk 23:46:40]} 13. Bg5 {[%clk 23:45:31]} 13... Qd7 {[%clk 23:50:33]} 14. Rxa1 {[%clk 23:03:09]} 14... c6 {[%clk 23:50:27]} 15. Bc4 {[%clk 22:35:07]} 15... b5 {[%clk 22:33:08]} 16. Bd3 {[%clk 13:56:12]} 16... c5 {[%clk 23:33:32]} 17. Bxb5 {[%clk 7:21:25]} 17... Qf5 {[%clk 16:57:14]} 18. Qe3 {[%clk 21:38:50]} 18... Rab8 {[%clk 22:56:34]} 19. Nxd6 {[%clk 23:27:55]} 19... Rfd8 {[%clk 23:58:37]} 20. Nxf5 {[%clk 23:43:05]} 20... Rxb5 {[%clk 23:58:54]} 21. Bxd8 {[%clk 19:03:47]} 1-0\n",
+    "move_number": 19
+  }
+}
