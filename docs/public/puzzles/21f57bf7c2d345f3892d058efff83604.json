@@ -1,0 +1,21 @@
+{
+  "id": "21f57bf7c2d345f3892d058efff83604",
+  "position": "r2qkb1r/pp3ppp/2p1b3/1Q1n4/8/8/PPP2PPP/RNB1K1NR w KQkq - 0 10",
+  "best_move": "b5e2",
+  "played_move": "b5b7",
+  "eval_diff": 172,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "116592661377",
+    "white": "Mennborg",
+    "black": "chessam777",
+    "timestamp": 1722854198,
+    "url": "https://www.chess.com/analysis/game/live/116592661377?tab=analysis&move=17",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.05\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"chessam777\"]\n[Result \"1-0\"]\n[CurrentPosition \"r2qk2r/pQ2b1pp/1nb2p2/8/7P/4BN2/PPP2PP1/RN2K2R w KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"C24\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening-Berlin-Defense-3.d3-d5-4.exd5-Nxd5\"]\n[UTCDate \"2024.08.05\"]\n[UTCTime \"10:32:22\"]\n[WhiteElo \"262\"]\n[BlackElo \"219\"]\n[TimeControl \"180+2\"]\n[Termination \"Mennborg won by resignation\"]\n[StartTime \"10:32:22\"]\n[EndDate \"2024.08.05\"]\n[EndTime \"10:36:38\"]\n[Link \"https://www.chess.com/game/live/116592661377\"]\n\n1. e4 {[%clk 0:03:02]} 1... e5 {[%clk 0:02:56.7]} 2. Bc4 {[%clk 0:03:02.5]} 2... Nf6 {[%clk 0:02:55.2]} 3. d3 {[%clk 0:03:00.1]} 3... d5 {[%clk 0:02:54.2]} 4. exd5 {[%clk 0:02:59.9]} 4... Nxd5 {[%clk 0:02:54.9]} 5. d4 {[%clk 0:02:57.7]} 5... Nc6 {[%clk 0:02:50]} 6. dxe5 {[%clk 0:02:56.4]} 6... Nxe5 {[%clk 0:02:49]} 7. Qd4 {[%clk 0:02:48]} 7... Nxc4 {[%clk 0:02:47.9]} 8. Qxc4 {[%clk 0:02:42.2]} 8... Be6 {[%clk 0:02:47.2]} 9. Qb5+ {[%clk 0:02:32.7]} 9... c6 {[%clk 0:02:44.8]} 10. Qxb7 {[%clk 0:02:30.7]} 10... Bd7 {[%clk 0:02:29.2]} 11. Bg5 {[%clk 0:02:25.2]} 11... Be7 {[%clk 0:02:22]} 12. h4 {[%clk 0:02:12.3]} 12... f6 {[%clk 0:02:16.9]} 13. Be3 {[%clk 0:02:07]} 13... Nb6 {[%clk 0:01:54.6]} 14. Nf3 {[%clk 0:01:51.4]} 14... Bc8 {[%clk 0:01:54.7]} 15. Qxc6+ {[%clk 0:01:45.5]} 15... Bd7 {[%clk 0:01:32.3]} 16. Qb7 {[%clk 0:01:32.9]} 16... Bc6 {[%clk 0:01:32.9]} 1-0\n",
+    "move_number": 10
+  }
+}

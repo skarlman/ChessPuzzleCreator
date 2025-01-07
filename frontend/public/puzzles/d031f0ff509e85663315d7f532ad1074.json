@@ -1,0 +1,21 @@
+{
+  "id": "d031f0ff509e85663315d7f532ad1074",
+  "position": "1r2k1nr/3n2p1/2p2p2/4p1p1/2PpP1PP/b2B2P1/1q6/3KN1NR b k - 1 24",
+  "best_move": "b2c1",
+  "played_move": "a3b4",
+  "eval_diff": 8342,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "skarlman",
+  "game": {
+    "id": "722586885",
+    "white": "Meea",
+    "black": "skarlman",
+    "timestamp": 1730788353,
+    "url": "https://www.chess.com/analysis/game/daily/722586885?tab=analysis&move=46",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.30\"]\n[Round \"-\"]\n[White \"Meea\"]\n[Black \"skarlman\"]\n[Result \"0-1\"]\n[CurrentPosition \"1r2k1nr/3n2p1/2p2p2/4p1p1/1bPpP1PP/6P1/2NqB3/3K2NR w k - 6 27\"]\n[Timezone \"UTC\"]\n[ECO \"B10\"]\n[ECOUrl \"https://www.chess.com/openings/Caro-Kann-Defense-Breyer-Variation-2...d5\"]\n[UTCDate \"2024.10.30\"]\n[UTCTime \"11:15:20\"]\n[WhiteElo \"542\"]\n[BlackElo \"958\"]\n[TimeControl \"1/259200\"]\n[Termination \"skarlman won by checkmate\"]\n[StartTime \"11:15:20\"]\n[EndDate \"2024.11.05\"]\n[EndTime \"06:32:33\"]\n[Link \"https://www.chess.com/game/daily/722586885\"]\n\n1. e4 {[%clk 71:59:54]} 1... c6 {[%clk 71:13:32]} 2. d3 {[%clk 67:53:31]} 2... d5 {[%clk 71:53:55]} 3. Bf4 {[%clk 71:57:17]} 3... e6 {[%clk 71:03:08]} 4. Nd2 {[%clk 71:51:19]} 4... Bd6 {[%clk 71:53:41]} 5. Qf3 {[%clk 71:59:13]} 5... Qc7 {[%clk 71:52:46]} 6. g3 {[%clk 70:37:39]} 6... e5 {[%clk 71:56:45]} 7. Be3 {[%clk 71:57:52]} 7... d4 {[%clk 71:50:57]} 8. Bg5 {[%clk 71:53:02]} 8... h6 {[%clk 71:57:54]} 9. Qg4 {[%clk 52:12:27]} 9... Bxg4 {[%clk 52:06:09]} 10. f3 {[%clk 65:35:09]} 10... hxg5 {[%clk 70:41:37]} 11. fxg4 {[%clk 71:53:25]} 11... Nd7 {[%clk 71:57:07]} 12. Ndf3 {[%clk 71:59:16]} 12... f6 {[%clk 71:54:09]} 13. O-O-O {[%clk 71:20:44]} 13... Rc8 {[%clk 62:06:13]} 14. c4 {[%clk 69:16:37]} 14... b5 {[%clk 69:38:30]} 15. a3 {[%clk 65:04:36]} 15... bxc4 {[%clk 69:33:29]} 16. dxc4 {[%clk 71:49:56]} 16... Qb7 {[%clk 71:54:27]} 17. Bd3 {[%clk 71:58:30]} 17... Rb8 {[%clk 62:35:36]} 18. b4 {[%clk 70:35:50]} 18... a5 {[%clk 71:04:21]} 19. Rd2 {[%clk 70:02:32]} 19... axb4 {[%clk 69:01:40]} 20. axb4 {[%clk 71:55:07]} 20... Qxb4 {[%clk 71:37:56]} 21. h4 {[%clk 71:26:23]} 21... Qb3 {[%clk 69:34:13]} 22. Ne1 {[%clk 70:47:52]} 22... Ba3+ {[%clk 71:00:03]} 23. Rb2 {[%clk 69:04:31]} 23... Qxb2+ {[%clk 64:52:42]} 24. Kd1 {[%clk 71:48:08]} 24... Bb4 {[%clk 71:50:33]} 25. Nc2 {[%clk 71:21:36]} 25... Qc3 {[%clk 70:08:47]} 26. Be2 {[%clk 59:23:14]} 26... Qd2# {[%clk 61:36:57]} 0-1\n",
+    "move_number": 24
+  }
+}

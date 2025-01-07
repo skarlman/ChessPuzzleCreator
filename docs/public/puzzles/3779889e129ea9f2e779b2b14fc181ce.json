@@ -1,0 +1,21 @@
+{
+  "id": "3779889e129ea9f2e779b2b14fc181ce",
+  "position": "r2qkb1r/p1pb1ppp/1p6/4N3/3P4/P3P3/5PPP/R1BQK2R b KQkq - 1 12",
+  "best_move": "f8d6",
+  "played_move": "d7b5",
+  "eval_diff": 439,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "120850945014",
+    "white": "santiago_2367898",
+    "black": "Mennborg",
+    "timestamp": 1731447485,
+    "url": "https://www.chess.com/analysis/game/live/120850945014?tab=analysis&move=22",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.12\"]\n[Round \"-\"]\n[White \"santiago_2367898\"]\n[Black \"Mennborg\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2qkb1r/5ppp/ppp5/1b1PN3/8/P3P3/5PPP/1RBQK2R w Kkq -\"]\n[Timezone \"UTC\"]\n[ECO \"A10\"]\n[ECOUrl \"https://www.chess.com/openings/English-Opening-Anglo-Scandinavian-Defense\"]\n[UTCDate \"2024.11.12\"]\n[UTCTime \"21:33:44\"]\n[WhiteElo \"219\"]\n[BlackElo \"236\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won on time\"]\n[StartTime \"21:33:44\"]\n[EndDate \"2024.11.12\"]\n[EndTime \"21:38:05\"]\n[Link \"https://www.chess.com/game/live/120850945014\"]\n\n1. c4 {[%clk 0:02:59.8]} 1... d5 {[%clk 0:02:59.8]} 2. e3 {[%clk 0:02:59.1]} 2... Nc6 {[%clk 0:02:57.8]} 3. cxd5 {[%clk 0:02:58.2]} 3... Nb4 {[%clk 0:02:54.5]} 4. a3 {[%clk 0:02:53.3]} 4... Nxd5 {[%clk 0:02:52.2]} 5. Nc3 {[%clk 0:02:52]} 5... Nxc3 {[%clk 0:02:50]} 6. bxc3 {[%clk 0:02:50.3]} 6... e5 {[%clk 0:02:44.9]} 7. d4 {[%clk 0:02:49.2]} 7... exd4 {[%clk 0:02:39.8]} 8. cxd4 {[%clk 0:02:47.2]} 8... Nf6 {[%clk 0:02:35.2]} 9. Nf3 {[%clk 0:02:44.4]} 9... b6 {[%clk 0:02:20.7]} 10. Bb5+ {[%clk 0:02:39]} 10... Nd7 {[%clk 0:02:11.5]} 11. Bxd7+ {[%clk 0:01:27.7]} 11... Bxd7 {[%clk 0:02:09.3]} 12. Ne5 {[%clk 0:01:26.5]} 12... Bb5 {[%clk 0:02:01.5]} 13. Rb1 {[%clk 0:01:21.5]} 13... a6 {[%clk 0:01:53.9]} 14. d5 {[%clk 0:01:16.7]} 14... c6 {[%clk 0:01:44.2]} 0-1\n",
+    "move_number": 12
+  }
+}

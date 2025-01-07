@@ -1,0 +1,21 @@
+{
+  "id": "e3997e9609d20734c2808ca3fb5b02ba",
+  "position": "r2qk2r/ppp2pp1/2np1n2/2b1p1p1/2B1P1P1/2NP1N2/PPP2PP1/R2QK2R w KQkq - 0 9",
+  "best_move": "h1h8",
+  "played_move": "f3g5",
+  "eval_diff": 1369,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "116674220881",
+    "white": "Mennborg",
+    "black": "calvin200",
+    "timestamp": 1722935529,
+    "url": "https://www.chess.com/analysis/game/live/116674220881?tab=analysis&move=15",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.06\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"calvin200\"]\n[Result \"1-0\"]\n[CurrentPosition \"r2q1rk1/ppp2pp1/3p1n2/2bNp1N1/2BnP1P1/2PP4/PP3PP1/R2QK2R b KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"C50\"]\n[ECOUrl \"https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Canal-Variation\"]\n[UTCDate \"2024.08.06\"]\n[UTCTime \"09:08:47\"]\n[WhiteElo \"261\"]\n[BlackElo \"299\"]\n[TimeControl \"180+2\"]\n[Termination \"Mennborg won by resignation\"]\n[StartTime \"09:08:47\"]\n[EndDate \"2024.08.06\"]\n[EndTime \"09:12:09\"]\n[Link \"https://www.chess.com/game/live/116674220881\"]\n\n1. e4 {[%clk 0:03:02]} 1... e5 {[%clk 0:03:00.9]} 2. Bc4 {[%clk 0:03:00.4]} 2... Nf6 {[%clk 0:02:58.6]} 3. d3 {[%clk 0:02:56]} 3... Nc6 {[%clk 0:02:53.5]} 4. Bg5 {[%clk 0:02:55.4]} 4... Bc5 {[%clk 0:02:37.2]} 5. Nf3 {[%clk 0:02:51.3]} 5... d6 {[%clk 0:02:29]} 6. Nc3 {[%clk 0:02:12]} 6... Bg4 {[%clk 0:02:22.5]} 7. h3 {[%clk 0:02:11]} 7... h6 {[%clk 0:02:14.3]} 8. hxg4 {[%clk 0:02:10.4]} 8... hxg5 {[%clk 0:02:15.8]} 9. Nxg5 {[%clk 0:02:10.1]} 9... O-O {[%clk 0:02:11.4]} 10. Nd5 {[%clk 0:01:56.1]} 10... Nd4 {[%clk 0:02:02]} 11. c3 {[%clk 0:01:46]} 1-0\n",
+    "move_number": 9
+  }
+}

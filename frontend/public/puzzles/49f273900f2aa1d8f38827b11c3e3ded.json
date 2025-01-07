@@ -3,7 +3,7 @@
   "position": "rnb1k2r/pp1p1ppp/4p3/2p1P1NQ/3P4/1Bq5/P1P2PPP/5RK1 b kq - 1 15",
   "best_move": "e8d8",
   "played_move": "g7g6",
-  "eval_diff": 190,
+  "eval_diff": 213,
   "themes": [
     "mistake"
   ],

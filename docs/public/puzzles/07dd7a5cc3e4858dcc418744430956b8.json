@@ -1,0 +1,21 @@
+{
+  "id": "07dd7a5cc3e4858dcc418744430956b8",
+  "position": "r1b1r1k1/pppp1pp1/5q1p/2b1N3/2B5/3P4/PP2QPPP/RN2K2R w KQ - 1 12",
+  "best_move": "c4f7",
+  "played_move": "b1c3",
+  "eval_diff": 626,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "116671837667",
+    "white": "Mennborg",
+    "black": "rloubser",
+    "timestamp": 1722933196,
+    "url": "https://www.chess.com/analysis/game/live/116671837667?tab=analysis&move=21",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.06\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"rloubser\"]\n[Result \"0-1\"]\n[CurrentPosition \"r1b3k1/pppp1pp1/5q1p/2b5/2BP4/2N5/PP2rPPP/R3K2R w KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"C50\"]\n[ECOUrl \"https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6-5.Bg5-h6\"]\n[UTCDate \"2024.08.06\"]\n[UTCTime \"08:30:53\"]\n[WhiteElo \"254\"]\n[BlackElo \"305\"]\n[TimeControl \"180+2\"]\n[Termination \"rloubser won by resignation\"]\n[StartTime \"08:30:53\"]\n[EndDate \"2024.08.06\"]\n[EndTime \"08:33:16\"]\n[Link \"https://www.chess.com/game/live/116671837667\"]\n\n1. e4 {[%clk 0:03:02]} 1... e5 {[%clk 0:03:01.2]} 2. Bc4 {[%clk 0:03:02]} 2... Nf6 {[%clk 0:03:00.3]} 3. d3 {[%clk 0:03:02.5]} 3... Bc5 {[%clk 0:02:59]} 4. Bg5 {[%clk 0:03:02.5]} 4... Nc6 {[%clk 0:02:54.6]} 5. Nf3 {[%clk 0:03:03.8]} 5... h6 {[%clk 0:02:52.5]} 6. Bxf6 {[%clk 0:03:03.3]} 6... Qxf6 {[%clk 0:02:51.9]} 7. d4 {[%clk 0:03:00.2]} 7... exd4 {[%clk 0:02:49.9]} 8. e5 {[%clk 0:02:46.2]} 8... Nxe5 {[%clk 0:02:44.6]} 9. Qe2 {[%clk 0:02:35.3]} 9... d3 {[%clk 0:02:40.4]} 10. cxd3 {[%clk 0:02:32]} 10... O-O {[%clk 0:02:36.1]} 11. Nxe5 {[%clk 0:02:29.5]} 11... Re8 {[%clk 0:02:31.8]} 12. Nc3 {[%clk 0:02:15.4]} 12... Rxe5 {[%clk 0:02:31.1]} 13. d4 {[%clk 0:02:14.2]} 13... Rxe2+ {[%clk 0:02:31.3]} 0-1\n",
+    "move_number": 12
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1c5b604e8045b3d1eb48f4df8291d705",
+  "position": "r1b1kbnr/ppp1pNpp/2nq4/8/2B1pP2/2P5/PP1P2PP/RNBQK2R b KQkq - 0 7",
+  "best_move": "d6f6",
+  "played_move": "e8d7",
+  "eval_diff": 358,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "120767228340",
+    "white": "AdilKamil",
+    "black": "Mennborg",
+    "timestamp": 1731076821,
+    "url": "https://www.chess.com/analysis/game/live/120767228340?tab=analysis&move=12",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.08\"]\n[Round \"-\"]\n[White \"AdilKamil\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1b2bnr/pp1kp1pp/2np4/8/2B1pPQ1/2P5/PP1P2PP/RNB1K2R b KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"A06\"]\n[ECOUrl \"https://www.chess.com/openings/Reti-Opening-Tennison-Gambit\"]\n[UTCDate \"2024.11.08\"]\n[UTCTime \"14:38:52\"]\n[WhiteElo \"261\"]\n[BlackElo \"229\"]\n[TimeControl \"180\"]\n[Termination \"AdilKamil won by resignation\"]\n[StartTime \"14:38:52\"]\n[EndDate \"2024.11.08\"]\n[EndTime \"14:40:21\"]\n[Link \"https://www.chess.com/game/live/120767228340\"]\n\n1. e4 {[%clk 0:02:53]} 1... d5 {[%clk 0:02:58.2]} 2. Nf3 {[%clk 0:02:52.6]} 2... dxe4 {[%clk 0:02:56.3]} 3. Ne5 {[%clk 0:02:51.4]} 3... Qd4 {[%clk 0:02:48.3]} 4. f4 {[%clk 0:02:46.1]} 4... Nc6 {[%clk 0:02:39.4]} 5. c3 {[%clk 0:02:43.6]} 5... Qd5 {[%clk 0:02:32.6]} 6. Bc4 {[%clk 0:02:39.1]} 6... Qd6 {[%clk 0:02:21.5]} 7. Nxf7 {[%clk 0:02:35.9]} 7... Kd7 {[%clk 0:02:14.7]} 8. Nxd6 {[%clk 0:02:34.2]} 8... cxd6 {[%clk 0:02:10.9]} 9. Qg4+ {[%clk 0:02:32.7]} 1-0\n",
+    "move_number": 7
+  }
+}

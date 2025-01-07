@@ -1,0 +1,21 @@
+{
+  "id": "427db7d249d4c7e7b6fc198d7326bb40",
+  "position": "rnbqkbnr/ppp2ppp/4p3/6N1/4p3/3P4/PPP2PPP/RNBQKB1R b KQkq - 0 4",
+  "best_move": "e4d3",
+  "played_move": "d8g5",
+  "eval_diff": 673,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121652940552",
+    "white": "Raffaelloty",
+    "black": "Mennborg",
+    "timestamp": 1734959477,
+    "url": "https://www.chess.com/analysis/game/live/121652940552?tab=analysis&move=6",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.23\"]\n[Round \"-\"]\n[White \"Raffaelloty\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnb1kbnr/ppp2ppp/4p3/6B1/4p3/3P4/PPP2PPP/RN1QKB1R b KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"A06\"]\n[ECOUrl \"https://www.chess.com/openings/Reti-Opening-Tennison-Gambit\"]\n[UTCDate \"2024.12.23\"]\n[UTCTime \"13:10:52\"]\n[WhiteElo \"273\"]\n[BlackElo \"238\"]\n[TimeControl \"180\"]\n[Termination \"Raffaelloty won by resignation\"]\n[StartTime \"13:10:52\"]\n[EndDate \"2024.12.23\"]\n[EndTime \"13:11:17\"]\n[Link \"https://www.chess.com/game/live/121652940552\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... d5 {[%clk 0:02:58.5]} 2. Nf3 {[%clk 0:02:59.4]} 2... dxe4 {[%clk 0:02:56.8]} 3. Ng5 {[%clk 0:02:58.8]} 3... e6 {[%clk 0:02:50.3]} 4. d3 {[%clk 0:02:56.6]} 4... Qxg5 {[%clk 0:02:48.7]} 5. Bxg5 {[%clk 0:02:55.1]} 1-0\n",
+    "move_number": 4
+  }
+}

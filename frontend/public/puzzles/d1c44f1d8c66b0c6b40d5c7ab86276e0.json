@@ -1,0 +1,21 @@
+{
+  "id": "d1c44f1d8c66b0c6b40d5c7ab86276e0",
+  "position": "3rkb1r/ppp3pp/4pn2/8/5B2/2NP1P2/PPP2P1P/R3K2R b KQk - 0 13",
+  "best_move": "f6d5",
+  "played_move": "d8d4",
+  "eval_diff": 195,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "113777455003",
+    "white": "Shiiiikamaru",
+    "black": "Mennborg",
+    "timestamp": 1720038923,
+    "url": "https://www.chess.com/analysis/game/live/113777455003?tab=analysis&move=24",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.07.03\"]\n[Round \"-\"]\n[White \"Shiiiikamaru\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"4k2r/1p4pp/8/p2nB3/N7/3P1P2/PPP2P1P/R3K2R b KQk -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3\"]\n[UTCDate \"2024.07.03\"]\n[UTCTime \"20:31:29\"]\n[WhiteElo \"332\"]\n[BlackElo \"262\"]\n[TimeControl \"180+2\"]\n[Termination \"Shiiiikamaru won by resignation\"]\n[StartTime \"20:31:29\"]\n[EndDate \"2024.07.03\"]\n[EndTime \"20:35:23\"]\n[Link \"https://www.chess.com/game/live/113777455003\"]\n\n1. e4 {[%clk 0:03:02]} 1... d5 {[%clk 0:03:02]} 2. exd5 {[%clk 0:03:03]} 2... Qxd5 {[%clk 0:03:02.7]} 3. Nc3 {[%clk 0:03:04.3]} 3... Qe6+ {[%clk 0:03:02.4]} 4. Qe2 {[%clk 0:03:03.4]} 4... Nf6 {[%clk 0:03:02.7]} 5. Qxe6 {[%clk 0:03:04]} 5... fxe6 {[%clk 0:03:03.2]} 6. Nf3 {[%clk 0:03:04.9]} 6... e5 {[%clk 0:03:03.5]} 7. Nxe5 {[%clk 0:03:03.1]} 7... Bg4 {[%clk 0:02:56]} 8. Be2 {[%clk 0:03:02]} 8... Nc6 {[%clk 0:02:54]} 9. Bxg4 {[%clk 0:03:01.8]} 9... Nxe5 {[%clk 0:02:46.9]} 10. Bf3 {[%clk 0:02:54.1]} 10... Rd8 {[%clk 0:02:37.7]} 11. d3 {[%clk 0:02:50]} 11... e6 {[%clk 0:02:32.9]} 12. Bf4 {[%clk 0:02:50.2]} 12... Nxf3+ {[%clk 0:02:28]} 13. gxf3 {[%clk 0:02:49.8]} 13... Rd4 {[%clk 0:02:22.1]} 14. Bxc7 {[%clk 0:02:47.9]} 14... e5 {[%clk 0:02:08.8]} 15. Bxe5 {[%clk 0:02:46.9]} 15... Rb4 {[%clk 0:01:49.4]} 16. Ne2 {[%clk 0:02:34.2]} 16... a5 {[%clk 0:01:42.2]} 17. Nd4 {[%clk 0:02:28.9]} 17... Bc5 {[%clk 0:01:38.4]} 18. Ne6 {[%clk 0:02:23]} 18... Ra4 {[%clk 0:01:27.5]} 19. Nxc5 {[%clk 0:02:21.5]} 19... Nd5 {[%clk 0:01:24.1]} 20. Nxa4 {[%clk 0:02:22.4]} 1-0\n",
+    "move_number": 13
+  }
+}

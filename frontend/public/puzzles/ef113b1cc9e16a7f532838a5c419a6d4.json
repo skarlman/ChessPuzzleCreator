@@ -1,0 +1,21 @@
+{
+  "id": "ef113b1cc9e16a7f532838a5c419a6d4",
+  "position": "rnb1kb1r/ppp1pppp/8/1B6/3Pq1n1/2P1B3/PP3PPP/RN1QK1NR b KQkq - 4 6",
+  "best_move": "c7c6",
+  "played_move": "c8d7",
+  "eval_diff": 206,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "116345412065",
+    "white": "freudsmamma",
+    "black": "Mennborg",
+    "timestamp": 1722606505,
+    "url": "https://www.chess.com/analysis/game/live/116345412065?tab=analysis&move=10",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.08.02\"]\n[Round \"-\"]\n[White \"freudsmamma\"]\n[Black \"Mennborg\"]\n[Result \"0-1\"]\n[CurrentPosition \"r3kb1r/pppnpppp/8/8/3P4/2P1Bn2/PP2NPq1/RN1QK1R1 w Qkq -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation\"]\n[UTCDate \"2024.08.02\"]\n[UTCTime \"13:46:23\"]\n[WhiteElo \"167\"]\n[BlackElo \"236\"]\n[TimeControl \"180+2\"]\n[Termination \"Mennborg won by checkmate\"]\n[StartTime \"13:46:23\"]\n[EndDate \"2024.08.02\"]\n[EndTime \"13:48:25\"]\n[Link \"https://www.chess.com/game/live/116345412065\"]\n\n1. e4 {[%clk 0:03:02]} 1... d5 {[%clk 0:02:58.7]} 2. exd5 {[%clk 0:03:00.3]} 2... Qxd5 {[%clk 0:02:59.3]} 3. c3 {[%clk 0:02:54.7]} 3... Nf6 {[%clk 0:02:55.8]} 4. d4 {[%clk 0:02:55.2]} 4... Qe4+ {[%clk 0:02:52]} 5. Be3 {[%clk 0:02:48]} 5... Ng4 {[%clk 0:02:47.7]} 6. Bb5+ {[%clk 0:02:42]} 6... Bd7 {[%clk 0:02:43.3]} 7. Bxd7+ {[%clk 0:02:39.3]} 7... Nxd7 {[%clk 0:02:44]} 8. Ne2 {[%clk 0:02:37]} 8... Qxg2 {[%clk 0:02:40.1]} 9. Rf1 {[%clk 0:02:33.6]} 9... Nxh2 {[%clk 0:02:34.2]} 10. Rg1 {[%clk 0:02:28.6]} 10... Nf3# {[%clk 0:02:18.3]} 0-1\n",
+    "move_number": 6
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "8343ef5f762f4258391249dfbc1c2611",
+  "position": "4k2r/R5pp/8/p2r1bN1/1p1P1P1P/4P3/P6R/4KB2 b k - 1 30",
+  "best_move": "a5a4",
+  "played_move": "f5c2",
+  "eval_diff": 475,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121269245470",
+    "white": "jacomo72",
+    "black": "Mennborg",
+    "timestamp": 1733332041,
+    "url": "https://www.chess.com/analysis/game/live/121269245470?tab=analysis&move=58",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.04\"]\n[Round \"-\"]\n[White \"jacomo72\"]\n[Black \"Mennborg\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/4k1pR/8/p2r2N1/1p1P1P1P/4P3/b6R/4KB2 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"A00\"]\n[ECOUrl \"https://www.chess.com/openings/Van-t-Kruijs-Opening-1...d5\"]\n[UTCDate \"2024.12.04\"]\n[UTCTime \"17:01:21\"]\n[WhiteElo \"157\"]\n[BlackElo \"221\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won on time\"]\n[StartTime \"17:01:21\"]\n[EndDate \"2024.12.04\"]\n[EndTime \"17:07:21\"]\n[Link \"https://www.chess.com/game/live/121269245470\"]\n\n1. e3 {[%clk 0:02:55.3]} 1... d5 {[%clk 0:02:58.3]} 2. Qh5 {[%clk 0:02:53.7]} 2... Nf6 {[%clk 0:02:55.4]} 3. Qd1 {[%clk 0:02:51.7]} 3... Ne4 {[%clk 0:02:52.7]} 4. Qh5 {[%clk 0:02:46.1]} 4... Nc6 {[%clk 0:02:35.5]} 5. d3 {[%clk 0:02:40.7]} 5... Nf6 {[%clk 0:02:29.3]} 6. Qd1 {[%clk 0:02:38.4]} 6... Bg4 {[%clk 0:02:23.8]} 7. f3 {[%clk 0:02:36.2]} 7... Bf5 {[%clk 0:02:21.4]} 8. h4 {[%clk 0:02:33.2]} 8... e5 {[%clk 0:02:18.2]} 9. g4 {[%clk 0:02:28.7]} 9... Be6 {[%clk 0:02:10.3]} 10. g5 {[%clk 0:02:26.6]} 10... Nh5 {[%clk 0:02:01]} 11. f4 {[%clk 0:02:17.1]} 11... Ng3 {[%clk 0:01:54]} 12. Rh2 {[%clk 0:02:06.7]} 12... Nh5 {[%clk 0:01:43.6]} 13. Qxh5 {[%clk 0:02:03]} 13... e4 {[%clk 0:01:35.5]} 14. dxe4 {[%clk 0:01:49.4]} 14... dxe4 {[%clk 0:01:32.7]} 15. Qd1 {[%clk 0:01:47.4]} 15... Bb4+ {[%clk 0:01:20]} 16. c3 {[%clk 0:01:43.5]} 16... Bc5 {[%clk 0:01:16.9]} 17. Qxd8+ {[%clk 0:01:38.8]} 17... Rxd8 {[%clk 0:01:14.5]} 18. b4 {[%clk 0:01:27.5]} 18... Bd6 {[%clk 0:01:10.1]} 19. Ne2 {[%clk 0:01:18.2]} 19... Bg4 {[%clk 0:01:06.9]} 20. Nd4 {[%clk 0:01:07.9]} 20... Nxd4 {[%clk 0:01:05]} 21. cxd4 {[%clk 0:01:05.1]} 21... Bxb4+ {[%clk 0:01:02.4]} 22. Bd2 {[%clk 0:01:01.9]} 22... Bxd2+ {[%clk 0:00:59.3]} 23. Nxd2 {[%clk 0:00:59.3]} 23... f6 {[%clk 0:00:50.6]} 24. Nxe4 {[%clk 0:00:54.8]} 24... fxg5 {[%clk 0:00:48.3]} 25. Nxg5 {[%clk 0:00:49.5]} 25... Rd5 {[%clk 0:00:39.7]} 26. Ne4 {[%clk 0:00:39.9]} 26... b5 {[%clk 0:00:36.6]} 27. Rc1 {[%clk 0:00:33.8]} 27... Bf5 {[%clk 0:00:33.7]} 28. Ng5 {[%clk 0:00:24.3]} 28... b4 {[%clk 0:00:27.7]} 29. Rxc7 {[%clk 0:00:21]} 29... a5 {[%clk 0:00:19.5]} 30. Ra7 {[%clk 0:00:17.7]} 30... Bc2 {[%clk 0:00:12.6]} 31. Ra8+ {[%clk 0:00:13.9]} 31... Ke7 {[%clk 0:00:07.8]} 32. Rxh8 {[%clk 0:00:12.1]} 32... Bb1 {[%clk 0:00:07.5]} 33. Rxh7 {[%clk 0:00:02]} 33... Bxa2 {[%clk 0:00:07.3]} 0-1\n",
+    "move_number": 30
+  }
+}

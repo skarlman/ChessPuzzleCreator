@@ -1,0 +1,21 @@
+{
+  "id": "7af37f7c8c6b3faf0203c07eb49fa192",
+  "position": "r3kb1r/ppp2ppp/2n2n2/q3pb2/3P4/2N3P1/PPPBNPBP/R2Q1RK1 b kq - 3 9",
+  "best_move": "e8c8",
+  "played_move": "e5d4",
+  "eval_diff": 191,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "739976737",
+    "white": "ROMALDINHO",
+    "black": "Mennborg",
+    "timestamp": 1734096771,
+    "url": "https://www.chess.com/analysis/game/daily/739976737?tab=analysis&move=16",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.09\"]\n[Round \"-\"]\n[White \"ROMALDINHO\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"r3kb1r/ppN2ppp/5n2/1q3b2/3n4/6P1/PPPB1PBP/R2Q1RK1 b kq - 0 12\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qe5\"]\n[UTCDate \"2024.12.09\"]\n[UTCTime \"14:38:47\"]\n[WhiteElo \"1307\"]\n[BlackElo \"765\"]\n[TimeControl \"1/259200\"]\n[Termination \"ROMALDINHO won by resignation\"]\n[StartTime \"14:38:47\"]\n[EndDate \"2024.12.13\"]\n[EndTime \"13:32:51\"]\n[Link \"https://www.chess.com/game/daily/739976737\"]\n\n1. e4 {[%clk 47:47:23]} 1... d5 {[%clk 69:25:57]} 2. exd5 {[%clk 69:58:09]} 2... Qxd5 {[%clk 71:38:41]} 3. Nc3 {[%clk 71:59:49]} 3... Qe5+ {[%clk 71:59:43]} 4. Nge2 {[%clk 71:59:49]} 4... Bf5 {[%clk 71:16:48]} 5. d4 {[%clk 71:22:49]} 5... Qa5 {[%clk 60:20:12]} 6. Bd2 {[%clk 71:45:41]} 6... Nf6 {[%clk 71:43:48]} 7. g3 {[%clk 70:02:26]} 7... e5 {[%clk 71:13:32]} 8. Bg2 {[%clk 69:46:52]} 8... Nc6 {[%clk 71:56:05]} 9. O-O {[%clk 47:50:18]} 9... exd4 {[%clk 71:06:58]} 10. Nxd4 {[%clk 70:22:06]} 10... Nxd4 {[%clk 71:44:19]} 11. Nd5 {[%clk 68:00:16]} 11... Qb5 {[%clk 63:00:24]} 12. Nxc7+ {[%clk 64:58:01]} 1-0\n",
+    "move_number": 9
+  }
+}

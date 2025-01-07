@@ -1,0 +1,21 @@
+{
+  "id": "de21fea0495c8467cd0e437077af154d",
+  "position": "r3kbnr/ppp1pppp/2n5/8/8/3PBPN1/PPP1BPqP/R2QK2R b KQkq - 6 10",
+  "best_move": "g2h3",
+  "played_move": "e7e6",
+  "eval_diff": 407,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121188394522",
+    "white": "RalphG1bson",
+    "black": "Mennborg",
+    "timestamp": 1732972721,
+    "url": "https://www.chess.com/analysis/game/live/121188394522?tab=analysis&move=18",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.30\"]\n[Round \"-\"]\n[White \"RalphG1bson\"]\n[Black \"Mennborg\"]\n[Result \"0-1\"]\n[CurrentPosition \"r3k1nr/ppp2ppp/2n5/8/5bB1/3P1PN1/PPPq3P/R3K2R w KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qe5-4.Be2\"]\n[UTCDate \"2024.11.30\"]\n[UTCTime \"13:15:03\"]\n[WhiteElo \"245\"]\n[BlackElo \"266\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won - game abandoned\"]\n[StartTime \"13:15:03\"]\n[EndDate \"2024.11.30\"]\n[EndTime \"13:18:41\"]\n[Link \"https://www.chess.com/game/live/121188394522\"]\n\n1. e4 {[%clk 0:02:59.6]} 1... d5 {[%clk 0:02:57.9]} 2. exd5 {[%clk 0:02:57.7]} 2... Qxd5 {[%clk 0:02:56.9]} 3. Nc3 {[%clk 0:02:55.9]} 3... Qe5+ {[%clk 0:02:49.9]} 4. Be2 {[%clk 0:02:54.1]} 4... Bg4 {[%clk 0:02:46.7]} 5. Nf3 {[%clk 0:02:46.9]} 5... Bxf3 {[%clk 0:02:35.9]} 6. gxf3 {[%clk 0:02:45]} 6... Nc6 {[%clk 0:02:25.6]} 7. d3 {[%clk 0:02:36.9]} 7... Qf6 {[%clk 0:02:14.4]} 8. Be3 {[%clk 0:02:32.7]} 8... Qg6 {[%clk 0:02:12.2]} 9. Ne4 {[%clk 0:02:27.9]} 9... Qg2 {[%clk 0:02:04.5]} 10. Ng3 {[%clk 0:02:18.7]} 10... e6 {[%clk 0:01:51.7]} 11. f4 {[%clk 0:02:15.9]} 11... e5 {[%clk 0:01:43.3]} 12. Bg4 {[%clk 0:02:13.3]} 12... exf4 {[%clk 0:01:37.4]} 13. Bxf4 {[%clk 0:02:06.4]} 13... Bd6 {[%clk 0:01:30.3]} 14. f3 {[%clk 0:01:57.4]} 14... Bxf4 {[%clk 0:01:27.2]} 15. Qd2 {[%clk 0:01:26.7]} 15... Qxd2+ {[%clk 0:01:17.2]} 0-1\n",
+    "move_number": 10
+  }
+}

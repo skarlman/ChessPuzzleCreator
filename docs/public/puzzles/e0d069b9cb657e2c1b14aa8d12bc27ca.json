@@ -1,0 +1,21 @@
+{
+  "id": "e0d069b9cb657e2c1b14aa8d12bc27ca",
+  "position": "2kr1b1r/pp3pp1/2p1bq1p/4R2Q/8/2P4P/P1P2PP1/4R1K1 w - - 3 19",
+  "best_move": "h5e2",
+  "played_move": "e1d1",
+  "eval_diff": 304,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "120653070138",
+    "white": "Mennborg",
+    "black": "pravinQQQ",
+    "timestamp": 1730564706,
+    "url": "https://www.chess.com/analysis/game/live/120653070138?tab=analysis&move=35",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.02\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"pravinQQQ\"]\n[Result \"1-0\"]\n[CurrentPosition \"2k4r/pp3Qp1/2p1b2p/8/8/2P4P/P1P2PPK/4q3 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"C23\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening-Philidor-Counterattack\"]\n[UTCDate \"2024.11.02\"]\n[UTCTime \"16:19:08\"]\n[WhiteElo \"231\"]\n[BlackElo \"198\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won on time\"]\n[StartTime \"16:19:08\"]\n[EndDate \"2024.11.02\"]\n[EndTime \"16:25:06\"]\n[Link \"https://www.chess.com/game/live/120653070138\"]\n\n1. e4 {[%clk 0:03:00]} 1... e5 {[%clk 0:02:54.6]} 2. Bc4 {[%clk 0:02:58.7]} 2... c6 {[%clk 0:02:51.6]} 3. Nf3 {[%clk 0:02:57.6]} 3... d6 {[%clk 0:02:51]} 4. d3 {[%clk 0:02:52.5]} 4... h6 {[%clk 0:02:35]} 5. O-O {[%clk 0:02:42]} 5... Nf6 {[%clk 0:02:33.5]} 6. Nc3 {[%clk 0:02:40.3]} 6... Nbd7 {[%clk 0:02:14.2]} 7. Be3 {[%clk 0:02:34.2]} 7... Nc5 {[%clk 0:02:11.6]} 8. Bxc5 {[%clk 0:02:31.6]} 8... dxc5 {[%clk 0:02:10.7]} 9. d4 {[%clk 0:02:21]} 9... cxd4 {[%clk 0:02:06.8]} 10. Nxd4 {[%clk 0:02:00.3]} 10... exd4 {[%clk 0:01:58.7]} 11. e5 {[%clk 0:01:54.9]} 11... Ng4 {[%clk 0:01:51.3]} 12. h3 {[%clk 0:01:49.9]} 12... Nxe5 {[%clk 0:01:42.2]} 13. Qh5 {[%clk 0:01:35.1]} 13... dxc3 {[%clk 0:01:36.9]} 14. Rfd1 {[%clk 0:01:30.6]} 14... Qf6 {[%clk 0:01:11.8]} 15. bxc3 {[%clk 0:01:19.4]} 15... Nxc4 {[%clk 0:00:53.5]} 16. Re1+ {[%clk 0:01:16.4]} 16... Ne5 {[%clk 0:00:48.7]} 17. Rxe5+ {[%clk 0:01:12.2]} 17... Be6 {[%clk 0:00:42.2]} 18. Rae1 {[%clk 0:00:59.1]} 18... O-O-O {[%clk 0:00:32.9]} 19. Rd1 {[%clk 0:00:41.1]} 19... Rxd1+ {[%clk 0:00:27.3]} 20. Qxd1 {[%clk 0:00:38]} 20... Bd6 {[%clk 0:00:18.2]} 21. Qxd6 {[%clk 0:00:33.7]} 21... Qg5 {[%clk 0:00:06.9]} 22. Qe7 {[%clk 0:00:24.8]} 22... Qc1+ {[%clk 0:00:06.1]} 23. Kh2 {[%clk 0:00:22.3]} 23... Qf4+ {[%clk 0:00:01.5]} 24. Kg1 {[%clk 0:00:19.8]} 24... Qxe5 {[%clk 0:00:00.9]} 25. Qxf7 {[%clk 0:00:17]} 25... Qe1+ {[%clk 0:00:00.2]} 26. Kh2 {[%clk 0:00:15.5]} 1-0\n",
+    "move_number": 19
+  }
+}

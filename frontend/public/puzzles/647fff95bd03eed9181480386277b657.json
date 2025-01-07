@@ -1,0 +1,21 @@
+{
+  "id": "647fff95bd03eed9181480386277b657",
+  "position": "r3k2r/ppqnp2p/1np1bp1b/3p2p1/1P1P4/2NBBN2/P1P2PPP/R2QK2R w KQkq - 3 12",
+  "best_move": "h2h4",
+  "played_move": "d3g6",
+  "eval_diff": 638,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121166416366",
+    "white": "Mennborg",
+    "black": "chloelovescatz",
+    "timestamp": 1732874870,
+    "url": "https://www.chess.com/analysis/game/live/121166416366?tab=analysis&move=21",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.29\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"chloelovescatz\"]\n[Result \"1-0\"]\n[CurrentPosition \"2kr2r1/ppqb4/2p2ppB/2Ppp3/2nP2pN/2N5/P1P2PPP/1RQR2K1 b - -\"]\n[Timezone \"UTC\"]\n[ECO \"B15\"]\n[ECOUrl \"https://www.chess.com/openings/Caro-Kann-Defense-Campomanes-Attack\"]\n[UTCDate \"2024.11.29\"]\n[UTCTime \"10:02:03\"]\n[WhiteElo \"266\"]\n[BlackElo \"249\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won on time\"]\n[StartTime \"10:02:03\"]\n[EndDate \"2024.11.29\"]\n[EndTime \"10:07:50\"]\n[Link \"https://www.chess.com/game/live/121166416366\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... c6 {[%clk 0:02:59.3]} 2. d4 {[%clk 0:02:57.1]} 2... d5 {[%clk 0:02:58.7]} 3. Nc3 {[%clk 0:02:50.7]} 3... Nf6 {[%clk 0:02:52.7]} 4. e5 {[%clk 0:02:46.8]} 4... Nfd7 {[%clk 0:02:40.5]} 5. Bg5 {[%clk 0:02:42]} 5... f6 {[%clk 0:02:37.7]} 6. Bf4 {[%clk 0:02:39.8]} 6... g5 {[%clk 0:02:34.1]} 7. e6 {[%clk 0:02:32.2]} 7... Nb6 {[%clk 0:02:31.2]} 8. Be3 {[%clk 0:02:23.2]} 8... Bxe6 {[%clk 0:02:26.9]} 9. Nf3 {[%clk 0:02:18]} 9... N8d7 {[%clk 0:02:12.4]} 10. b4 {[%clk 0:01:52.5]} 10... Bh6 {[%clk 0:01:57.7]} 11. Bd3 {[%clk 0:01:43.7]} 11... Qc7 {[%clk 0:01:52.5]} 12. Bg6+ {[%clk 0:01:34.6]} 12... hxg6 {[%clk 0:01:50.1]} 13. Qd3 {[%clk 0:01:29.3]} 13... Bf5 {[%clk 0:01:38.5]} 14. Qd2 {[%clk 0:01:22.3]} 14... O-O-O {[%clk 0:01:24.4]} 15. O-O {[%clk 0:01:19.6]} 15... Nc4 {[%clk 0:01:06.9]} 16. Qc1 {[%clk 0:01:06.1]} 16... e5 {[%clk 0:00:54.5]} 17. Rd1 {[%clk 0:00:49]} 17... g4 {[%clk 0:00:33.7]} 18. Nh4 {[%clk 0:00:40.9]} 18... Rhg8 {[%clk 0:00:22.4]} 19. Bxh6 {[%clk 0:00:29.2]} 19... Nc5 {[%clk 0:00:02.4]} 20. bxc5 {[%clk 0:00:27.5]} 20... Bd7 {[%clk 0:00:00.1]} 21. Rb1 {[%clk 0:00:19.8]} 1-0\n",
+    "move_number": 12
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "64b026d34f4352e34e9e0ca7d5b9014f",
+  "position": "rn2k2r/ppp2ppp/2q5/8/2N1b3/4B3/PP2QPPP/3RKB1R w Kkq - 2 16",
+  "best_move": "f2f3",
+  "played_move": "e2d2",
+  "eval_diff": 174,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "731352315",
+    "white": "Mennborg",
+    "black": "Meea",
+    "timestamp": 1732554753,
+    "url": "https://www.chess.com/analysis/game/daily/731352315?tab=analysis&move=29",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.19\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"Meea\"]\n[Result \"1-0\"]\n[CurrentPosition \"Q7/8/2Q5/5k2/7p/5P1b/1K6/8 w - - 0 55\"]\n[Timezone \"UTC\"]\n[ECO \"C40\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Busch-Gass-Gambit-3.Nxe5\"]\n[UTCDate \"2024.11.19\"]\n[UTCTime \"11:19:14\"]\n[WhiteElo \"758\"]\n[BlackElo \"609\"]\n[TimeControl \"1/259200\"]\n[Termination \"Mennborg won by resignation\"]\n[StartTime \"11:19:14\"]\n[EndDate \"2024.11.25\"]\n[EndTime \"17:12:33\"]\n[Link \"https://www.chess.com/game/daily/731352315\"]\n\n1. e4 {[%clk 70:54:04]} 1... e5 {[%clk 71:56:03]} 2. Nf3 {[%clk 71:57:18]} 2... Bc5 {[%clk 68:45:37]} 3. Nxe5 {[%clk 70:52:31]} 3... d6 {[%clk 71:05:30]} 4. Nc4 {[%clk 68:20:12]} 4... Nf6 {[%clk 71:36:11]} 5. d4 {[%clk 71:38:22]} 5... Bb4+ {[%clk 64:18:53]} 6. c3 {[%clk 71:53:09]} 6... Ba5 {[%clk 71:59:02]} 7. Nxa5 {[%clk 71:56:57]} 7... Nxe4 {[%clk 71:58:38]} 8. Qe2 {[%clk 71:59:18]} 8... d5 {[%clk 71:55:33]} 9. c4 {[%clk 71:57:47]} 9... Bf5 {[%clk 69:05:03]} 10. cxd5 {[%clk 71:56:56]} 10... Qxd5 {[%clk 71:56:50]} 11. Nc4 {[%clk 71:59:08]} 11... Qxd4 {[%clk 71:44:38]} 12. Be3 {[%clk 66:59:46]} 12... Qd5 {[%clk 71:12:03]} 13. Nc3 {[%clk 71:58:16]} 13... Qd7 {[%clk 71:58:57]} 14. Nxe4 {[%clk 71:22:01]} 14... Bxe4 {[%clk 52:42:22]} 15. Rd1 {[%clk 66:29:37]} 15... Qc6 {[%clk 71:53:09]} 16. Qd2 {[%clk 71:57:54]} 16... O-O {[%clk 71:59:21]} 17. Ne5 {[%clk 71:59:24]} 17... Qe6 {[%clk 71:58:06]} 18. Qd4 {[%clk 71:58:56]} 18... Bc2 {[%clk 71:20:28]} 19. Rc1 {[%clk 70:45:45]} 19... Bf5 {[%clk 71:54:05]} 20. Bc4 {[%clk 71:59:00]} 20... Qc6 {[%clk 71:57:36]} 21. Bxf7+ {[%clk 71:22:43]} 21... Rxf7 {[%clk 71:51:00]} 22. Nxc6 {[%clk 71:46:10]} 22... bxc6 {[%clk 71:43:20]} 23. Qd8+ {[%clk 71:33:26]} 23... Rf8 {[%clk 71:30:25]} 24. Qxc7 {[%clk 71:46:09]} 24... Be4 {[%clk 52:00:58]} 25. Qg3 {[%clk 71:41:36]} 25... Nd7 {[%clk 71:56:16]} 26. Bh6 {[%clk 71:51:44]} 26... Bg6 {[%clk 71:39:05]} 27. Rxc6 {[%clk 71:51:05]} 27... Ne5 {[%clk 71:58:58]} 28. Bf4 {[%clk 71:57:46]} 28... Nxc6 {[%clk 71:14:01]} 29. Bd6 {[%clk 71:38:34]} 29... Rfe8+ {[%clk 71:54:50]} 30. Kd1 {[%clk 71:35:17]} 30... Nd4 {[%clk 71:57:42]} 31. Re1 {[%clk 71:43:49]} 31... Nf5 {[%clk 71:50:13]} 32. Qb3+ {[%clk 71:48:59]} 32... Bf7 {[%clk 71:51:00]} 33. Qd3 {[%clk 71:43:02]} 33... g6 {[%clk 52:13:50]} 34. Be5 {[%clk 71:39:30]} 34... Rad8 {[%clk 71:07:29]} 35. Bd4 {[%clk 71:42:44]} 35... Nxd4 {[%clk 70:51:48]} 36. Rxe8+ {[%clk 71:59:36]} 36... Rxe8 {[%clk 71:55:41]} 37. Qxd4 {[%clk 71:58:01]} 37... Bxa2 {[%clk 71:53:22]} 38. Qa4 {[%clk 71:59:43]} 38... Rd8+ {[%clk 71:59:39]} 39. Kc2 {[%clk 71:58:40]} 39... Bd5 {[%clk 71:29:30]} 40. Qa5 {[%clk 71:16:11]} 40... Rc8+ {[%clk 71:51:00]} 41. Kb1 {[%clk 61:52:45]} 41... Be4+ {[%clk 62:34:19]} 42. Ka2 {[%clk 71:44:44]} 42... Ra8 {[%clk 71:49:13]} 43. f3 {[%clk 71:22:22]} 43... Bc6 {[%clk 55:46:37]} 44. b4 {[%clk 71:58:46]} 44... h5 {[%clk 71:58:00]} 45. b5 {[%clk 71:59:39]} 45... Bd5+ {[%clk 71:56:26]} 46. Kb2 {[%clk 71:30:11]} 46... g5 {[%clk 71:54:34]} 47. h3 {[%clk 71:53:31]} 47... Bc4 {[%clk 71:51:01]} 48. b6 {[%clk 71:59:26]} 48... Bf1 {[%clk 71:57:46]} 49. Qxg5+ {[%clk 71:59:21]} 49... Kf7 {[%clk 71:59:12]} 50. Qd5+ {[%clk 71:42:14]} 50... Kf6 {[%clk 71:12:59]} 51. Qxa8 {[%clk 71:53:59]} 51... Bxg2 {[%clk 71:13:55]} 52. bxa7 {[%clk 71:11:54]} 52... Bxh3 {[%clk 71:37:51]} 53. Qc6+ {[%clk 70:50:37]} 53... Kf5 {[%clk 71:54:20]} 54. a8=Q {[%clk 71:55:40]} 54... h4 {[%clk 70:27:02]} 1-0\n",
+    "move_number": 16
+  }
+}

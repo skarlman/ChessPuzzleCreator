@@ -1,0 +1,21 @@
+{
+  "id": "ce3a18a155996cfa5e90313b0594dbf6",
+  "position": "rnb1k1nr/pp3ppp/2p5/4P3/2Bbq3/6P1/PPP2P1P/R1BQK1NR w KQkq - 0 9",
+  "best_move": "e1f1",
+  "played_move": "g1e2",
+  "eval_diff": 308,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121138301600",
+    "white": "Mennborg",
+    "black": "zrm83",
+    "timestamp": 1732740520,
+    "url": "https://www.chess.com/analysis/game/live/121138301600?tab=analysis&move=15",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.27\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"zrm83\"]\n[Result \"0-1\"]\n[CurrentPosition \"rnb1k1nr/pp3ppp/2p5/4P3/2B5/2P3P1/P1P1NP1P/R1BQK2q w Qkq -\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Blackmar-Diemer-Lemberger-Endgame-Variation\"]\n[UTCDate \"2024.11.27\"]\n[UTCTime \"20:46:49\"]\n[WhiteElo \"243\"]\n[BlackElo \"257\"]\n[TimeControl \"180\"]\n[Termination \"zrm83 won by resignation\"]\n[StartTime \"20:46:49\"]\n[EndDate \"2024.11.27\"]\n[EndTime \"20:48:40\"]\n[Link \"https://www.chess.com/game/live/121138301600\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... e5 {[%clk 0:02:57.2]} 2. d4 {[%clk 0:02:58.6]} 2... d5 {[%clk 0:02:52.9]} 3. dxe5 {[%clk 0:02:55.3]} 3... dxe4 {[%clk 0:02:51.2]} 4. Nc3 {[%clk 0:02:47.6]} 4... Bc5 {[%clk 0:02:38.8]} 5. Nxe4 {[%clk 0:02:43.4]} 5... Bd4 {[%clk 0:02:29.1]} 6. Bb5+ {[%clk 0:02:39.4]} 6... c6 {[%clk 0:02:25.9]} 7. Bc4 {[%clk 0:02:34.8]} 7... Qh4 {[%clk 0:02:23.5]} 8. g3 {[%clk 0:02:28.1]} 8... Qxe4+ {[%clk 0:02:21.6]} 9. Ne2 {[%clk 0:02:24.5]} 9... Bc3+ {[%clk 0:02:09.2]} 10. bxc3 {[%clk 0:02:12.2]} 10... Qxh1+ {[%clk 0:02:05.7]} 0-1\n",
+    "move_number": 9
+  }
+}

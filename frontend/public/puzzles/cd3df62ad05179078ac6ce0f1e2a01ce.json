@@ -1,0 +1,21 @@
+{
+  "id": "cd3df62ad05179078ac6ce0f1e2a01ce",
+  "position": "rn2k2r/ppp3pp/4bn2/4pp2/3q1P2/3PN1P1/PPQB3P/2R1KB1R b Kkq - 3 19",
+  "best_move": "e5f4",
+  "played_move": "e6a2",
+  "eval_diff": 480,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "705635351",
+    "white": "Joeslievert",
+    "black": "Mennborg",
+    "timestamp": 1727797454,
+    "url": "https://www.chess.com/analysis/game/daily/705635351?tab=analysis&move=36",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.09.20\"]\n[Round \"-\"]\n[White \"Joeslievert\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"rn2k2r/ppQ3pp/5n2/4pN2/5P2/3P2P1/bP1B3P/2R1KB1q w kq - 0 22\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation\"]\n[UTCDate \"2024.09.20\"]\n[UTCTime \"19:21:17\"]\n[WhiteElo \"971\"]\n[BlackElo \"649\"]\n[TimeControl \"1/259200\"]\n[Termination \"Joeslievert won by resignation\"]\n[StartTime \"19:21:17\"]\n[EndDate \"2024.10.01\"]\n[EndTime \"15:44:14\"]\n[Link \"https://www.chess.com/game/daily/705635351\"]\n\n1. e4 {[%clk 71:59:31]} 1... d5 {[%clk 20:15:17]} 2. exd5 {[%clk 71:59:40]} 2... Qxd5 {[%clk 71:59:52]} 3. f3 {[%clk 71:30:47]} 3... e5 {[%clk 65:41:20]} 4. Nc3 {[%clk 65:15:28]} 4... Qd4 {[%clk 52:37:51]} 5. Nge2 {[%clk 67:45:44]} 5... Qh4+ {[%clk 71:29:46]} 6. g3 {[%clk 71:31:07]} 6... Qb4 {[%clk 29:12:24]} 7. Nd5 {[%clk 67:55:23]} 7... Qc5 {[%clk 71:57:14]} 8. Nec3 {[%clk 71:58:49]} 8... Be6 {[%clk 71:58:33]} 9. Ne3 {[%clk 71:59:00]} 9... f5 {[%clk 71:59:19]} 10. d3 {[%clk 71:58:58]} 10... Nf6 {[%clk 71:08:01]} 11. Na4 {[%clk 71:34:37]} 11... Qb4+ {[%clk 71:42:54]} 12. c3 {[%clk 71:54:52]} 12... Qb5 {[%clk 71:58:59]} 13. c4 {[%clk 71:50:30]} 13... Qb4+ {[%clk 71:36:33]} 14. Bd2 {[%clk 71:57:52]} 14... Qd6 {[%clk 55:13:32]} 15. c5 {[%clk 66:23:13]} 15... Qd4 {[%clk 70:34:20]} 16. f4 {[%clk 71:52:40]} 16... Bxc5 {[%clk 54:15:36]} 17. Nxc5 {[%clk 66:25:22]} 17... Qxc5 {[%clk 70:26:25]} 18. Rc1 {[%clk 71:30:07]} 18... Qd4 {[%clk 71:58:42]} 19. Qc2 {[%clk 71:03:33]} 19... Bxa2 {[%clk 71:49:04]} 20. Nxf5 {[%clk 71:28:33]} 20... Qd5 {[%clk 3:17:10]} 21. Qxc7 {[%clk 71:48:03]} 21... Qxh1 {[%clk 70:40:54]} 1-0\n",
+    "move_number": 19
+  }
+}

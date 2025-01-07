@@ -1,0 +1,21 @@
+{
+  "id": "3456fb37af2a092622d231399f617e8b",
+  "position": "rn2k2r/pp2qppp/6b1/2bp4/3P2P1/1B2BP2/PP5P/R3K1NR b KQkq - 2 15",
+  "best_move": "e7e3",
+  "played_move": "e7e3",
+  "eval_diff": 8398,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121748817750",
+    "white": "xodino1315",
+    "black": "Mennborg",
+    "timestamp": 1735332428,
+    "url": "https://www.chess.com/analysis/game/live/121748817750?tab=analysis&move=28",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.27\"]\n[Round \"-\"]\n[White \"xodino1315\"]\n[Black \"Mennborg\"]\n[Result \"0-1\"]\n[CurrentPosition \"rn2k2r/pp3ppp/6b1/3p4/3b2P1/1B2qP2/PP2N2P/R3K2R w KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"C24\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening-Berlin-Defense\"]\n[UTCDate \"2024.12.27\"]\n[UTCTime \"20:44:06\"]\n[WhiteElo \"231\"]\n[BlackElo \"238\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won - game abandoned\"]\n[StartTime \"20:44:06\"]\n[EndDate \"2024.12.27\"]\n[EndTime \"20:47:08\"]\n[Link \"https://www.chess.com/game/live/121748817750\"]\n\n1. e4 {[%clk 0:02:59.9]} 1... e5 {[%clk 0:02:58.2]} 2. Bc4 {[%clk 0:02:58.4]} 2... Nf6 {[%clk 0:02:56.5]} 3. Qe2 {[%clk 0:02:56.4]} 3... Bb4 {[%clk 0:02:51.9]} 4. Bb3 {[%clk 0:02:55.2]} 4... d5 {[%clk 0:02:46.4]} 5. exd5 {[%clk 0:02:53.8]} 5... Nxd5 {[%clk 0:02:38]} 6. Qc4 {[%clk 0:02:53.7]} 6... c6 {[%clk 0:02:32.4]} 7. Nc3 {[%clk 0:02:52]} 7... Be6 {[%clk 0:02:17.1]} 8. Nxd5 {[%clk 0:02:49.1]} 8... cxd5 {[%clk 0:02:14.4]} 9. Qg4 {[%clk 0:02:37.4]} 9... Bxg4 {[%clk 0:02:07.5]} 10. f3 {[%clk 0:02:36.1]} 10... Bf5 {[%clk 0:02:04.9]} 11. g4 {[%clk 0:02:34.2]} 11... Bg6 {[%clk 0:02:01.7]} 12. c3 {[%clk 0:02:23.2]} 12... Bc5 {[%clk 0:01:59.4]} 13. d4 {[%clk 0:02:22]} 13... exd4 {[%clk 0:01:57.6]} 14. cxd4 {[%clk 0:02:21]} 14... Qe7+ {[%clk 0:01:55.4]} 15. Be3 {[%clk 0:02:15.9]} 15... Qxe3+ {[%clk 0:01:50.6]} 16. Ne2 {[%clk 0:02:14.5]} 16... Bxd4 {[%clk 0:01:44.9]} 0-1\n",
+    "move_number": 15
+  }
+}

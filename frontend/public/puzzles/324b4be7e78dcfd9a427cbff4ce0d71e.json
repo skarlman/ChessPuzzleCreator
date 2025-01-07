@@ -1,0 +1,21 @@
+{
+  "id": "324b4be7e78dcfd9a427cbff4ce0d71e",
+  "position": "7r/1pk5/2np2pp/1Q1B4/P1Nq4/2bb4/4R1PP/2R2K2 w - - 9 44",
+  "best_move": "b5b6",
+  "played_move": "g2g4",
+  "eval_diff": 381,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Meea",
+  "game": {
+    "id": "735810337",
+    "white": "Meea",
+    "black": "farmorlena",
+    "timestamp": 1733291808,
+    "url": "https://www.chess.com/analysis/game/daily/735810337?tab=analysis&move=85",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.29\"]\n[Round \"-\"]\n[White \"Meea\"]\n[Black \"farmorlena\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/1p6/2np2p1/k5p1/7b/5r2/8/7K w - - 0 55\"]\n[Timezone \"UTC\"]\n[ECO \"C41\"]\n[ECOUrl \"https://www.chess.com/openings/Philidor-Defense-3.d4\"]\n[UTCDate \"2024.11.29\"]\n[UTCTime \"16:37:43\"]\n[WhiteElo \"595\"]\n[BlackElo \"724\"]\n[TimeControl \"1/259200\"]\n[Termination \"farmorlena won by resignation\"]\n[StartTime \"16:37:43\"]\n[EndDate \"2024.12.04\"]\n[EndTime \"05:56:48\"]\n[Link \"https://www.chess.com/game/daily/735810337\"]\n\n1. e4 {[%clk 67:02:32]} 1... e5 {[%clk 62:50:22]} 2. d4 {[%clk 69:46:05]} 2... d6 {[%clk 71:33:44]} 3. Nf3 {[%clk 71:36:38]} 3... f6 {[%clk 71:58:27]} 4. Nc3 {[%clk 71:52:14]} 4... c6 {[%clk 71:32:47]} 5. d5 {[%clk 70:13:48]} 5... Bg4 {[%clk 71:39:20]} 6. Be2 {[%clk 71:19:37]} 6... f5 {[%clk 71:42:59]} 7. Ng5 {[%clk 69:12:13]} 7... Qe7 {[%clk 71:47:51]} 8. exf5 {[%clk 71:39:27]} 8... Bxf5 {[%clk 71:22:38]} 9. dxc6 {[%clk 71:57:36]} 9... Nxc6 {[%clk 71:33:53]} 10. Nd5 {[%clk 71:51:53]} 10... Qd7 {[%clk 70:05:29]} 11. Bh5+ {[%clk 70:07:59]} 11... g6 {[%clk 71:59:04]} 12. Bf3 {[%clk 71:57:36]} 12... O-O-O {[%clk 71:22:31]} 13. O-O {[%clk 61:24:45]} 13... h6 {[%clk 71:59:07]} 14. Ne4 {[%clk 71:47:56]} 14... Qe6 {[%clk 71:48:16]} 15. Be3 {[%clk 71:50:02]} 15... a6 {[%clk 71:56:57]} 16. Nb6+ {[%clk 71:59:31]} 16... Kc7 {[%clk 71:58:59]} 17. Na4 {[%clk 67:40:27]} 17... Qc4 {[%clk 71:50:19]} 18. b3 {[%clk 68:37:07]} 18... Qe6 {[%clk 71:42:26]} 19. Bb6+ {[%clk 71:58:32]} 19... Kb8 {[%clk 70:54:21]} 20. Bxd8 {[%clk 71:58:16]} 20... Nxd8 {[%clk 71:59:30]} 21. Nb6 {[%clk 71:56:49]} 21... Nc6 {[%clk 71:54:30]} 22. Nc3 {[%clk 71:52:56]} 22... e4 {[%clk 71:53:00]} 23. Be2 {[%clk 71:07:49]} 23... Bg7 {[%clk 71:54:15]} 24. Qd2 {[%clk 71:49:56]} 24... Nge7 {[%clk 71:52:59]} 25. Rad1 {[%clk 71:47:28]} 25... Nc8 {[%clk 71:54:00]} 26. Bc4 {[%clk 62:38:10]} 26... Qe8 {[%clk 71:31:57]} 27. Ncd5 {[%clk 61:12:01]} 27... Nxb6 {[%clk 71:22:37]} 28. Nxb6 {[%clk 71:22:39]} 28... Be5 {[%clk 71:21:49]} 29. a4 {[%clk 71:56:34]} 29... Nd4 {[%clk 71:46:59]} 30. c3 {[%clk 71:55:19]} 30... Nc6 {[%clk 71:43:47]} 31. b4 {[%clk 71:23:13]} 31... a5 {[%clk 71:16:22]} 32. bxa5 {[%clk 71:50:27]} 32... Nxa5 {[%clk 71:59:23]} 33. Qd5 {[%clk 71:57:52]} 33... Nc6 {[%clk 71:54:39]} 34. Ra1 {[%clk 71:54:17]} 34... Bxc3 {[%clk 71:55:42]} 35. Rac1 {[%clk 63:44:10]} 35... Qe5 {[%clk 71:41:11]} 36. Rcd1 {[%clk 64:30:41]} 36... Kc7 {[%clk 71:30:04]} 37. Qb5 {[%clk 68:36:24]} 37... e3 {[%clk 71:30:10]} 38. Bd5 {[%clk 71:56:09]} 38... exf2+ {[%clk 71:55:08]} 39. Rxf2 {[%clk 71:58:57]} 39... Bd4 {[%clk 71:58:52]} 40. Rc1 {[%clk 71:54:05]} 40... Bc3 {[%clk 71:56:57]} 41. Nc4 {[%clk 71:57:13]} 41... Qf6 {[%clk 71:54:22]} 42. Re2 {[%clk 71:53:41]} 42... Qd4+ {[%clk 71:57:46]} 43. Kf1 {[%clk 71:48:23]} 43... Bd3 {[%clk 71:59:06]} 44. g4 {[%clk 71:56:54]} 44... Rf8+ {[%clk 71:59:25]} 45. Kg2 {[%clk 71:58:54]} 45... Bxe2 {[%clk 71:59:05]} 46. Re1 {[%clk 71:57:41]} 46... Bxe1 {[%clk 71:59:33]} 47. h3 {[%clk 71:54:37]} 47... Qf2+ {[%clk 71:58:20]} 48. Kh1 {[%clk 71:58:49]} 48... Bf3+ {[%clk 71:58:32]} 49. Bxf3 {[%clk 71:59:40]} 49... Rxf3 {[%clk 71:58:37]} 50. Qb6+ {[%clk 71:59:08]} 50... Qxb6 {[%clk 71:58:47]} 51. Nxb6 {[%clk 71:58:37]} 51... Kxb6 {[%clk 71:54:53]} 52. h4 {[%clk 71:40:15]} 52... Bxh4 {[%clk 71:42:33]} 53. a5+ {[%clk 71:59:20]} 53... Kxa5 {[%clk 71:40:58]} 54. g5 {[%clk 71:51:20]} 54... hxg5 {[%clk 71:52:06]} 0-1\n",
+    "move_number": 44
+  }
+}

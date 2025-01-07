@@ -1,0 +1,21 @@
+{
+  "id": "3f9e9f2e51a9abfce2ca4d5a3c3e379f",
+  "position": "r1bq1rk1/pppp1ppp/2nb1n2/4p1N1/2B1P3/2N5/PPPP1PPP/R1BQK2R w KQ - 8 6",
+  "best_move": "d2d3",
+  "played_move": "c3d5",
+  "eval_diff": 230,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121131114364",
+    "white": "Mennborg",
+    "black": "lotisefu17",
+    "timestamp": 1732715188,
+    "url": "https://www.chess.com/analysis/game/live/121131114364?tab=analysis&move=9",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.27\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"lotisefu17\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1bq1rk1/pppp1ppp/2nb1n2/3Np1N1/2B1P3/8/PPPP1PPP/R1BQK2R b KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"C47\"]\n[ECOUrl \"https://www.chess.com/openings/Four-Knights-Game-Italian-Variation\"]\n[UTCDate \"2024.11.27\"]\n[UTCTime \"13:45:10\"]\n[WhiteElo \"259\"]\n[BlackElo \"242\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won - game abandoned\"]\n[StartTime \"13:45:10\"]\n[EndDate \"2024.11.27\"]\n[EndTime \"13:46:28\"]\n[Link \"https://www.chess.com/game/live/121131114364\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... e5 {[%clk 0:02:58.8]} 2. Nf3 {[%clk 0:02:58]} 2... Nc6 {[%clk 0:02:58.4]} 3. Nc3 {[%clk 0:02:53]} 3... Nf6 {[%clk 0:02:56.8]} 4. Bc4 {[%clk 0:02:51]} 4... Bd6 {[%clk 0:02:53]} 5. Ng5 {[%clk 0:02:48.6]} 5... O-O {[%clk 0:02:52.9]} 6. Nd5 {[%clk 0:02:23.7]} 1-0\n",
+    "move_number": 6
+  }
+}

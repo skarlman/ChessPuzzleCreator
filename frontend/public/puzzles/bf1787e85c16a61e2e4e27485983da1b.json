@@ -1,0 +1,21 @@
+{
+  "id": "bf1787e85c16a61e2e4e27485983da1b",
+  "position": "rn1qk1nr/1pp4p/4p3/6p1/P1BP1P2/R5B1/1p1N1PPP/3Q1RK1 b kq - 0 18",
+  "best_move": "g8e7",
+  "played_move": "g5f4",
+  "eval_diff": 186,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "114997088627",
+    "white": "zivuskova",
+    "black": "Mennborg",
+    "timestamp": 1721258372,
+    "url": "https://www.chess.com/analysis/game/live/114997088627?tab=analysis&move=34",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.07.17\"]\n[Round \"-\"]\n[White \"zivuskova\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"rn2k2r/1pp4p/1B2pn2/8/P1B5/R7/1p1NQPPP/5RK1 b kq -\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5-3.Bf4-e6-4.e3\"]\n[UTCDate \"2024.07.17\"]\n[UTCTime \"23:14:12\"]\n[WhiteElo \"227\"]\n[BlackElo \"205\"]\n[TimeControl \"180+2\"]\n[Termination \"zivuskova won by resignation\"]\n[StartTime \"23:14:12\"]\n[EndDate \"2024.07.17\"]\n[EndTime \"23:19:32\"]\n[Link \"https://www.chess.com/game/live/114997088627\"]\n\n1. d4 {[%clk 0:03:02]} 1... d5 {[%clk 0:02:59.5]} 2. Bf4 {[%clk 0:03:03]} 2... Bf5 {[%clk 0:02:59.8]} 3. Nf3 {[%clk 0:03:01.9]} 3... e6 {[%clk 0:03:00.4]} 4. e3 {[%clk 0:03:01.9]} 4... Bb4+ {[%clk 0:02:59.6]} 5. c3 {[%clk 0:03:00.7]} 5... Ba5 {[%clk 0:02:58.9]} 6. b4 {[%clk 0:02:58.5]} 6... Bb6 {[%clk 0:02:58.5]} 7. a4 {[%clk 0:02:57.9]} 7... a5 {[%clk 0:02:50.5]} 8. Nbd2 {[%clk 0:02:53.4]} 8... axb4 {[%clk 0:02:49]} 9. c4 {[%clk 0:02:48.4]} 9... Ba5 {[%clk 0:02:45.3]} 10. Be2 {[%clk 0:02:40.8]} 10... b3 {[%clk 0:02:45.3]} 11. O-O {[%clk 0:02:38.3]} 11... b2 {[%clk 0:02:44]} 12. Ra3 {[%clk 0:02:21.5]} 12... Bxd2 {[%clk 0:02:41.9]} 13. Nxd2 {[%clk 0:02:17.9]} 13... dxc4 {[%clk 0:02:39.8]} 14. Bxc4 {[%clk 0:02:00.6]} 14... g5 {[%clk 0:02:19.1]} 15. Bg3 {[%clk 0:01:53.3]} 15... Be4 {[%clk 0:01:46.4]} 16. Nxe4 {[%clk 0:01:49.6]} 16... f5 {[%clk 0:01:41.1]} 17. Nd2 {[%clk 0:01:32.6]} 17... f4 {[%clk 0:01:39.9]} 18. exf4 {[%clk 0:01:31.6]} 18... gxf4 {[%clk 0:01:40.4]} 19. Bxf4 {[%clk 0:01:31.3]} 19... Nf6 {[%clk 0:01:38.3]} 20. Qe2 {[%clk 0:01:28.5]} 20... Qxd4 {[%clk 0:01:28.4]} 21. Be3 {[%clk 0:01:17.4]} 21... Qb6 {[%clk 0:01:14.9]} 22. Bxb6 {[%clk 0:01:15.6]} 1-0\n",
+    "move_number": 18
+  }
+}

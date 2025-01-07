@@ -1,0 +1,21 @@
+{
+  "id": "462a65468aef4e61e13caf22d86da404",
+  "position": "r1bqk2r/ppp2ppp/2n1pn2/2bp2B1/4P3/2NP1NP1/PPP2P1P/R2QKB1R w KQkq - 1 7",
+  "best_move": "e4e5",
+  "played_move": "b2b4",
+  "eval_diff": 316,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "679365749",
+    "white": "Mennborg",
+    "black": "skarlman",
+    "timestamp": 1721332826,
+    "url": "https://www.chess.com/analysis/game/daily/679365749?tab=analysis&move=11",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.07.15\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"skarlman\"]\n[Result \"0-1\"]\n[CurrentPosition \"r1bqk2r/ppp2ppp/2n1pn2/6B1/3pPQ2/2bP1NP1/P1P2P1P/R3KB1R w KQkq - 0 10\"]\n[Timezone \"UTC\"]\n[ECO \"C00\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Queens-Knight-Variation-2...d5\"]\n[UTCDate \"2024.07.15\"]\n[UTCTime \"07:09:32\"]\n[WhiteElo \"666\"]\n[BlackElo \"866\"]\n[TimeControl \"1/259200\"]\n[Termination \"skarlman won by resignation\"]\n[StartTime \"07:09:32\"]\n[EndDate \"2024.07.18\"]\n[EndTime \"20:00:26\"]\n[Link \"https://www.chess.com/game/daily/679365749\"]\n\n1. e4 {[%clk 7:57:45]} 1... e6 {[%clk 63:18:45]} 2. Nc3 {[%clk 71:55:35]} 2... d5 {[%clk 71:10:38]} 3. d3 {[%clk 71:53:21]} 3... Nf6 {[%clk 71:47:54]} 4. Bg5 {[%clk 71:14:06]} 4... Be7 {[%clk 69:37:56]} 5. Nf3 {[%clk 71:44:15]} 5... Nc6 {[%clk 71:55:27]} 6. g3 {[%clk 69:16:05]} 6... Bc5 {[%clk 71:52:06]} 7. b4 {[%clk 71:56:32]} 7... Bxb4 {[%clk 71:49:30]} 8. Qd2 {[%clk 71:58:52]} 8... d4 {[%clk 71:54:18]} 9. Qf4 {[%clk 71:46:40]} 9... Bxc3+ {[%clk 71:59:42]} 0-1\n",
+    "move_number": 7
+  }
+}

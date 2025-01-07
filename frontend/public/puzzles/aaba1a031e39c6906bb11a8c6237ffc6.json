@@ -1,0 +1,21 @@
+{
+  "id": "aaba1a031e39c6906bb11a8c6237ffc6",
+  "position": "rnbqk2r/ppp1pp1p/5Ppb/8/2p5/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 0 6",
+  "best_move": "b1c3",
+  "played_move": "f3e3",
+  "eval_diff": 579,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "120851007168",
+    "white": "Mennborg",
+    "black": "Nyelox312",
+    "timestamp": 1731447637,
+    "url": "https://www.chess.com/analysis/game/live/120851007168?tab=analysis&move=9",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.12\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"Nyelox312\"]\n[Result \"0-1\"]\n[CurrentPosition \"rnb1k2r/pp2p3/2p2P2/6B1/2Q5/8/PPp2PPP/RN1qK1NR w KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"B06\"]\n[ECOUrl \"https://www.chess.com/openings/Modern-Defense-with-1-e4-2.Bc4\"]\n[UTCDate \"2024.11.12\"]\n[UTCTime \"21:38:09\"]\n[WhiteElo \"228\"]\n[BlackElo \"254\"]\n[TimeControl \"180\"]\n[Termination \"Nyelox312 won by checkmate\"]\n[StartTime \"21:38:09\"]\n[EndDate \"2024.11.12\"]\n[EndTime \"21:40:37\"]\n[Link \"https://www.chess.com/game/live/120851007168\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... g6 {[%clk 0:02:56.7]} 2. Bc4 {[%clk 0:02:59]} 2... Bh6 {[%clk 0:02:54.3]} 3. Qf3 {[%clk 0:02:54.9]} 3... Nf6 {[%clk 0:02:52.2]} 4. e5 {[%clk 0:02:52.9]} 4... d5 {[%clk 0:02:43.2]} 5. exf6 {[%clk 0:02:46.5]} 5... dxc4 {[%clk 0:02:39.7]} 6. Qe3 {[%clk 0:02:37.9]} 6... Rg8 {[%clk 0:02:23.3]} 7. Qxh6 {[%clk 0:02:34.1]} 7... g5 {[%clk 0:02:20.1]} 8. Qxh7 {[%clk 0:02:30]} 8... Kd7 {[%clk 0:02:14.3]} 9. Qxf7 {[%clk 0:02:24.3]} 9... Rh8 {[%clk 0:02:09.6]} 10. d3 {[%clk 0:02:14.8]} 10... cxd3 {[%clk 0:02:06]} 11. Bxg5 {[%clk 0:02:09.7]} 11... dxc2 {[%clk 0:02:04.2]} 12. Qd5+ {[%clk 0:02:03.7]} 12... Ke8 {[%clk 0:02:01.3]} 13. Qb5+ {[%clk 0:01:50.2]} 13... c6 {[%clk 0:02:00]} 14. Qc4 {[%clk 0:01:39.6]} 14... Qd1# {[%clk 0:01:58.1]} 0-1\n",
+    "move_number": 6
+  }
+}

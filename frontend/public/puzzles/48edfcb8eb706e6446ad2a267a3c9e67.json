@@ -1,0 +1,21 @@
+{
+  "id": "48edfcb8eb706e6446ad2a267a3c9e67",
+  "position": "r1b1k1nr/pppp1ppp/2n2q2/2b1p3/2B1P3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 5",
+  "best_move": "c2c3",
+  "played_move": "c1g5",
+  "eval_diff": 529,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "724330481",
+    "white": "Mennborg",
+    "black": "God_1232",
+    "timestamp": 1731229146,
+    "url": "https://www.chess.com/analysis/game/daily/724330481?tab=analysis&move=7",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.03\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"God_1232\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1b1k1nr/pppp2pp/5p2/2b5/2B1PB2/2N5/PP3PPP/R4RK1 b kq - 1 12\"]\n[Timezone \"UTC\"]\n[ECO \"C23\"]\n[ECOUrl \"https://www.chess.com/openings/Bishops-Opening\"]\n[UTCDate \"2024.11.03\"]\n[UTCTime \"10:50:40\"]\n[WhiteElo \"629\"]\n[BlackElo \"626\"]\n[TimeControl \"1/86400\"]\n[Termination \"Mennborg won on time\"]\n[StartTime \"10:50:40\"]\n[EndDate \"2024.11.10\"]\n[EndTime \"08:59:06\"]\n[Link \"https://www.chess.com/game/daily/724330481\"]\n\n1. e4 {[%clk 21:06:15]} 1... e5 {[%clk 20:37:30]} 2. Bc4 {[%clk 23:15:10]} 2... Qf6 {[%clk 6:19:34]} 3. Qf3 {[%clk 23:20:35]} 3... Bc5 {[%clk 22:37:57]} 4. d3 {[%clk 16:58:25]} 4... Nc6 {[%clk 8:09:08]} 5. Bg5 {[%clk 23:17:44]} 5... Qxf3 {[%clk 22:43:11]} 6. Nxf3 {[%clk 23:27:39]} 6... Nd4 {[%clk 23:24:59]} 7. Nxd4 {[%clk 23:18:20]} 7... Bxd4 {[%clk 4:07:46]} 8. c3 {[%clk 19:39:15]} 8... Bc5 {[%clk 6:18:22]} 9. d4 {[%clk 18:17:12]} 9... exd4 {[%clk 4:20:13]} 10. O-O {[%clk 23:15:09]} 10... dxc3 {[%clk 21:07:43]} 11. Nxc3 {[%clk 23:56:00]} 11... f6 {[%clk 10:00:28]} 12. Bf4 {[%clk 20:14:10]} 1-0\n",
+    "move_number": 5
+  }
+}

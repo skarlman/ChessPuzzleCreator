@@ -1,0 +1,21 @@
+{
+  "id": "7acb645738d501f599b025e5925f877f",
+  "position": "3r4/4kp2/3qpn1Q/8/8/BBP5/P2P1PbP/R3K2R b KQ - 1 19",
+  "best_move": "d6a3",
+  "played_move": "f6g4",
+  "eval_diff": 725,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "115806045193",
+    "white": "Palautog03",
+    "black": "Mennborg",
+    "timestamp": 1722067528,
+    "url": "https://www.chess.com/analysis/game/live/115806045193?tab=analysis&move=36",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.07.27\"]\n[Round \"-\"]\n[White \"Palautog03\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"8/4kp2/3rpn2/8/7Q/1BP5/P2P1PbP/R3K1R1 b Q -\"]\n[Timezone \"UTC\"]\n[ECO \"C00\"]\n[ECOUrl \"https://www.chess.com/openings/French-Defense-Knight-Variation-Two-Knights-Variation\"]\n[UTCDate \"2024.07.27\"]\n[UTCTime \"08:01:20\"]\n[WhiteElo \"252\"]\n[BlackElo \"230\"]\n[TimeControl \"180+2\"]\n[Termination \"Palautog03 won by resignation\"]\n[StartTime \"08:01:20\"]\n[EndDate \"2024.07.27\"]\n[EndTime \"08:05:28\"]\n[Link \"https://www.chess.com/game/live/115806045193\"]\n\n1. e4 {[%clk 0:03:02]} 1... d5 {[%clk 0:03:01.3]} 2. Nc3 {[%clk 0:03:02.1]} 2... e6 {[%clk 0:02:58.4]} 3. Nf3 {[%clk 0:03:01.8]} 3... Bc5 {[%clk 0:02:57.1]} 4. Bb5+ {[%clk 0:03:02]} 4... c6 {[%clk 0:02:55.8]} 5. Ba4 {[%clk 0:03:03.3]} 5... b5 {[%clk 0:02:56]} 6. Bb3 {[%clk 0:03:02.4]} 6... b4 {[%clk 0:02:55.8]} 7. Na4 {[%clk 0:02:59.2]} 7... dxe4 {[%clk 0:02:48.6]} 8. Nxc5 {[%clk 0:02:55.4]} 8... exf3 {[%clk 0:02:37.8]} 9. Qxf3 {[%clk 0:02:55.1]} 9... Na6 {[%clk 0:02:28.8]} 10. Qxc6+ {[%clk 0:02:47.6]} 10... Ke7 {[%clk 0:02:26.9]} 11. Qxa8 {[%clk 0:02:43.5]} 11... Nxc5 {[%clk 0:02:23.1]} 12. Qxa7+ {[%clk 0:02:43.5]} 12... Bb7 {[%clk 0:02:20.4]} 13. Qxc5+ {[%clk 0:02:42]} 13... Qd6 {[%clk 0:02:17.8]} 14. Qg5+ {[%clk 0:02:35.7]} 14... Nf6 {[%clk 0:02:16.3]} 15. c3 {[%clk 0:02:27.6]} 15... h6 {[%clk 0:02:09.8]} 16. Qxg7 {[%clk 0:02:23.2]} 16... Rd8 {[%clk 0:02:05.2]} 17. Qxh6 {[%clk 0:02:22.4]} 17... bxc3 {[%clk 0:02:02.9]} 18. bxc3 {[%clk 0:02:21.9]} 18... Bxg2 {[%clk 0:02:00.9]} 19. Ba3 {[%clk 0:02:20.2]} 19... Ng4 {[%clk 0:01:45.3]} 20. Qh4+ {[%clk 0:02:12.7]} 20... Nf6 {[%clk 0:01:40.4]} 21. Bxd6+ {[%clk 0:02:08.7]} 21... Rxd6 {[%clk 0:01:40.3]} 22. Rg1 {[%clk 0:02:05.7]} 1-0\n",
+    "move_number": 19
+  }
+}

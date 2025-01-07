@@ -1,0 +1,21 @@
+{
+  "id": "651e6b12200372d76385410ecb5c5f75",
+  "position": "r1bq3k/ppppnQp1/2n4p/2b1p1N1/4P3/3P4/PPP2PPP/RNB1K2R w KQ - 1 9",
+  "best_move": "g5f3",
+  "played_move": "e1g1",
+  "eval_diff": 258,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "721815961",
+    "white": "Mennborg",
+    "black": "AlnaserSG",
+    "timestamp": 1731162781,
+    "url": "https://www.chess.com/analysis/game/daily/721815961?tab=analysis&move=15",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.28\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"AlnaserSG\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1bq3k/ppppnQp1/2n4p/2b1p1N1/4P3/3P4/PPP2PPP/RNB2RK1 b - - 2 9\"]\n[Timezone \"UTC\"]\n[ECO \"C50\"]\n[ECOUrl \"https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation\"]\n[UTCDate \"2024.10.28\"]\n[UTCTime \"17:37:13\"]\n[WhiteElo \"612\"]\n[BlackElo \"312\"]\n[TimeControl \"1/259200\"]\n[Termination \"Mennborg won by resignation\"]\n[StartTime \"17:37:13\"]\n[EndDate \"2024.11.09\"]\n[EndTime \"14:33:01\"]\n[Link \"https://www.chess.com/game/daily/721815961\"]\n\n1. e4 {[%clk 57:18:47]} 1... e5 {[%clk 18:59:04]} 2. Nf3 {[%clk 71:59:42]} 2... Nc6 {[%clk 16:54:25]} 3. Bc4 {[%clk 71:56:26]} 3... Bc5 {[%clk 55:14:14]} 4. d3 {[%clk 71:29:49]} 4... Nge7 {[%clk 54:47:03]} 5. Ng5 {[%clk 71:34:53]} 5... O-O {[%clk 63:57:31]} 6. Qh5 {[%clk 66:49:16]} 6... h6 {[%clk 33:12:00]} 7. Bxf7+ {[%clk 71:05:35]} 7... Rxf7 {[%clk 63:43:24]} 8. Qxf7+ {[%clk 59:19:25]} 8... Kh8 {[%clk 71:52:28]} 9. O-O {[%clk 71:52:24]} 1-0\n",
+    "move_number": 9
+  }
+}

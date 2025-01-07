@@ -1,0 +1,21 @@
+{
+  "id": "405ce7f37c94908234e21bdb0bdf581c",
+  "position": "Q3kb1r/p2q1ppp/n2p1n2/6B1/6b1/P1N5/1PP1BPPP/R3K1NR b KQk - 0 13",
+  "best_move": "d7c8",
+  "played_move": "e8e7",
+  "eval_diff": 9221,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "751215287",
+    "white": "AriehBaemtza",
+    "black": "Mennborg",
+    "timestamp": 1736113950,
+    "url": "https://www.chess.com/analysis/game/daily/751215287?tab=analysis&move=24",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2025.01.01\"]\n[Round \"-\"]\n[White \"AriehBaemtza\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"5b1r/p1nq1p1p/3pk3/6Q1/3N4/P3N3/1PP2PPP/R3K2R b KQ - 9 22\"]\n[Timezone \"UTC\"]\n[ECO \"A40\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.d5\"]\n[UTCDate \"2025.01.01\"]\n[UTCTime \"21:51:00\"]\n[WhiteElo \"862\"]\n[BlackElo \"816\"]\n[TimeControl \"1/86400\"]\n[Termination \"AriehBaemtza won by checkmate\"]\n[StartTime \"21:51:00\"]\n[EndDate \"2025.01.05\"]\n[EndTime \"21:52:30\"]\n[Link \"https://www.chess.com/game/daily/751215287\"]\n\n1. d4 {[%clk 23:59:48]} 1... Nc6 {[%clk 11:54:54]} 2. d5 {[%clk 21:30:20]} 2... Nb4 {[%clk 16:32:23]} 3. a3 {[%clk 14:25:45]} 3... Na6 {[%clk 19:42:17]} 4. e4 {[%clk 12:10:47]} 4... Nf6 {[%clk 11:26:00]} 5. Nc3 {[%clk 19:43:15]} 5... d6 {[%clk 23:44:36]} 6. Qd4 {[%clk 23:14:08]} 6... e6 {[%clk 20:46:19]} 7. Qc4 {[%clk 22:53:09]} 7... exd5 {[%clk 23:58:36]} 8. exd5 {[%clk 23:56:38]} 8... Bg4 {[%clk 23:59:28]} 9. Bg5 {[%clk 23:56:41]} 9... Qe7+ {[%clk 23:59:02]} 10. Be2 {[%clk 23:58:34]} 10... c6 {[%clk 23:55:54]} 11. dxc6 {[%clk 23:50:46]} 11... bxc6 {[%clk 22:32:48]} 12. Qxc6+ {[%clk 23:30:29]} 12... Qd7 {[%clk 13:57:35]} 13. Qxa8+ {[%clk 18:47:44]} 13... Ke7 {[%clk 23:11:19]} 14. Nd5+ {[%clk 23:01:04]} 14... Ke6 {[%clk 21:48:37]} 15. Bxf6 {[%clk 23:12:12]} 15... gxf6 {[%clk 23:59:06]} 16. Bxg4+ {[%clk 23:59:37]} 16... f5 {[%clk 23:44:29]} 17. Bxf5+ {[%clk 23:42:35]} 17... Kxf5 {[%clk 23:49:02]} 18. Ne3+ {[%clk 23:31:28]} 18... Ke5 {[%clk 23:44:26]} 19. Nf3+ {[%clk 23:45:25]} 19... Kf6 {[%clk 23:55:46]} 20. Qd5 {[%clk 23:25:20]} 20... Nc7 {[%clk 23:53:45]} 21. Qg5+ {[%clk 23:19:20]} 21... Ke6 {[%clk 23:31:58]} 22. Nd4# {[%clk 23:55:05]} 1-0\n",
+    "move_number": 13
+  }
+}

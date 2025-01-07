@@ -1,0 +1,21 @@
+{
+  "id": "74e2ffc7c276eb039af41977804bd6f9",
+  "position": "rnbqkb1r/ppppp2p/3n4/6p1/2B2Q2/8/PPPP1PPP/RNB1K1NR w KQkq - 0 6",
+  "best_move": "f4e5",
+  "played_move": "f4g5",
+  "eval_diff": 208,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121243239218",
+    "white": "Mennborg",
+    "black": "Rockrajni666",
+    "timestamp": 1733222319,
+    "url": "https://www.chess.com/analysis/game/live/121243239218?tab=analysis&move=9",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.03\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"Rockrajni666\"]\n[Result \"1-0\"]\n[CurrentPosition \"rnbqkb1r/ppppp2p/8/7Q/2n5/8/PPPP1PPP/RNB1K1NR b KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"B02\"]\n[ECOUrl \"https://www.chess.com/openings/Alekhines-Defense-Krejcik-Variation-2...Nxe4\"]\n[UTCDate \"2024.12.03\"]\n[UTCTime \"10:37:36\"]\n[WhiteElo \"228\"]\n[BlackElo \"223\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won by checkmate\"]\n[StartTime \"10:37:36\"]\n[EndDate \"2024.12.03\"]\n[EndTime \"10:38:39\"]\n[Link \"https://www.chess.com/game/live/121243239218\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... Nf6 {[%clk 0:02:59.4]} 2. Bc4 {[%clk 0:02:58.6]} 2... Nxe4 {[%clk 0:02:56]} 3. Qf3 {[%clk 0:02:54.6]} 3... f5 {[%clk 0:02:53.3]} 4. Qxf5 {[%clk 0:02:49.9]} 4... Nd6 {[%clk 0:02:50.2]} 5. Qf4 {[%clk 0:02:38.5]} 5... g5 {[%clk 0:02:36.6]} 6. Qxg5 {[%clk 0:02:31.1]} 6... Nxc4 {[%clk 0:02:33.2]} 7. Qh5# {[%clk 0:02:27.6]} 1-0\n",
+    "move_number": 6
+  }
+}

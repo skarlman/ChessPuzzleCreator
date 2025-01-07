@@ -1,0 +1,21 @@
+{
+  "id": "ea3658cc030583e15d7bd4f6098e359b",
+  "position": "r2qkbnr/ppp1pppp/2n5/3pPb2/5P2/3B4/PPPP2PP/RNBQK1NR b KQkq - 2 4",
+  "best_move": "f5d3",
+  "played_move": "c6b4",
+  "eval_diff": 675,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "120820806506",
+    "white": "cdr_yash",
+    "black": "Mennborg",
+    "timestamp": 1731321387,
+    "url": "https://www.chess.com/analysis/game/live/120820806506?tab=analysis&move=6",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.11.11\"]\n[Round \"-\"]\n[White \"cdr_yash\"]\n[Black \"Mennborg\"]\n[Result \"1-0\"]\n[CurrentPosition \"r3kbnr/ppp2ppp/4p3/3pP3/1n3P2/3B2PN/PPPP3P/RNBQK2R b KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-2.e5\"]\n[UTCDate \"2024.11.11\"]\n[UTCTime \"10:35:20\"]\n[WhiteElo \"256\"]\n[BlackElo \"230\"]\n[TimeControl \"180\"]\n[Termination \"cdr_yash won by resignation\"]\n[StartTime \"10:35:20\"]\n[EndDate \"2024.11.11\"]\n[EndTime \"10:36:27\"]\n[Link \"https://www.chess.com/game/live/120820806506\"]\n\n1. e4 {[%clk 0:02:59.9]} 1... d5 {[%clk 0:02:58.7]} 2. e5 {[%clk 0:02:56.5]} 2... Nc6 {[%clk 0:02:50.9]} 3. f4 {[%clk 0:02:53.4]} 3... Bf5 {[%clk 0:02:48.5]} 4. Bd3 {[%clk 0:02:49.8]} 4... Nb4 {[%clk 0:02:45.7]} 5. Bxf5 {[%clk 0:02:47.6]} 5... e6 {[%clk 0:02:41.4]} 6. Bd3 {[%clk 0:02:43.5]} 6... Qh4+ {[%clk 0:02:35.2]} 7. g3 {[%clk 0:02:39.8]} 7... Qh3 {[%clk 0:02:31.6]} 8. Nxh3 {[%clk 0:02:32.8]} 1-0\n",
+    "move_number": 4
+  }
+}

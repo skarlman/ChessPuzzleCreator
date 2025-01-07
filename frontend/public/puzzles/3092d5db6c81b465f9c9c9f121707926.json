@@ -1,0 +1,21 @@
+{
+  "id": "3092d5db6c81b465f9c9c9f121707926",
+  "position": "rn1qkbnr/pp1b1ppp/2pp4/8/2BpP3/2N2Q2/PPP2PPP/R1B1K1NR b KQkq - 1 6",
+  "best_move": "d6d5",
+  "played_move": "d4c3",
+  "eval_diff": 10337,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "black",
+  "turn_player": "Meea",
+  "game": {
+    "id": "721433543",
+    "white": "Mennborg",
+    "black": "Meea",
+    "timestamp": 1730137023,
+    "url": "https://www.chess.com/analysis/game/daily/721433543?tab=analysis&move=10",
+    "pgn": "[Event \"Let's Play\"]\n[Site \"Chess.com\"]\n[Date \"2024.10.27\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"Meea\"]\n[Result \"1-0\"]\n[CurrentPosition \"rn1qkbnr/pp1b1Qpp/2pp4/8/2B1P3/2p5/PPP2PPP/R1B1K1NR b KQkq - 0 7\"]\n[Timezone \"UTC\"]\n[ECO \"B07\"]\n[ECOUrl \"https://www.chess.com/openings/Pirc-Defense-Maroczy-Defense\"]\n[UTCDate \"2024.10.27\"]\n[UTCTime \"20:28:46\"]\n[WhiteElo \"641\"]\n[BlackElo \"618\"]\n[TimeControl \"1/259200\"]\n[Termination \"Mennborg won by checkmate\"]\n[StartTime \"20:28:46\"]\n[EndDate \"2024.10.28\"]\n[EndTime \"17:37:03\"]\n[Link \"https://www.chess.com/game/daily/721433543\"]\n\n1. e4 {[%clk 61:09:49]} 1... e5 {[%clk 71:39:10]} 2. d4 {[%clk 71:42:44]} 2... d6 {[%clk 71:59:06]} 3. Bb5+ {[%clk 71:48:24]} 3... Bd7 {[%clk 71:40:36]} 4. Nc3 {[%clk 71:55:26]} 4... c6 {[%clk 64:23:05]} 5. Bc4 {[%clk 71:42:01]} 5... exd4 {[%clk 71:56:35]} 6. Qf3 {[%clk 71:15:00]} 6... dxc3 {[%clk 71:58:52]} 7. Qxf7# {[%clk 71:40:55]} 1-0\n",
+    "move_number": 6
+  }
+}

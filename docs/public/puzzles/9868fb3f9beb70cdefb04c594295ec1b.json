@@ -1,0 +1,21 @@
+{
+  "id": "9868fb3f9beb70cdefb04c594295ec1b",
+  "position": "rn1qkb1r/pbp1pp1p/1p5p/8/2BPN3/8/PPP2PPP/R2QK1NR w KQkq - 2 7",
+  "best_move": "d1f3",
+  "played_move": "e4d2",
+  "eval_diff": 519,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121243267396",
+    "white": "Mennborg",
+    "black": "dtysaputra",
+    "timestamp": 1733222636,
+    "url": "https://www.chess.com/analysis/game/live/121243267396?tab=analysis&move=11",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.03\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"dtysaputra\"]\n[Result \"1-0\"]\n[CurrentPosition \"rn3b1r/pb5p/2p1p2p/8/1kN5/3B4/P1P1KPPP/Q5NR b - -\"]\n[Timezone \"UTC\"]\n[ECO \"B01\"]\n[ECOUrl \"https://www.chess.com/openings/Scandinavian-Defense-Closed-2...dxe4-3.Nxe4\"]\n[UTCDate \"2024.12.03\"]\n[UTCTime \"10:39:37\"]\n[WhiteElo \"236\"]\n[BlackElo \"232\"]\n[TimeControl \"180\"]\n[Termination \"Mennborg won by resignation\"]\n[StartTime \"10:39:37\"]\n[EndDate \"2024.12.03\"]\n[EndTime \"10:43:56\"]\n[Link \"https://www.chess.com/game/live/121243267396\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... d5 {[%clk 0:02:58]} 2. Nc3 {[%clk 0:02:55.3]} 2... dxe4 {[%clk 0:02:55.7]} 3. Nxe4 {[%clk 0:02:53.1]} 3... Nh6 {[%clk 0:02:54]} 4. d4 {[%clk 0:02:49.7]} 4... b6 {[%clk 0:02:49.8]} 5. Bxh6 {[%clk 0:02:48.1]} 5... gxh6 {[%clk 0:02:46]} 6. Bc4 {[%clk 0:02:40]} 6... Bb7 {[%clk 0:02:44.1]} 7. Nd2 {[%clk 0:02:29.8]} 7... b5 {[%clk 0:02:41.2]} 8. Qh5 {[%clk 0:02:19.7]} 8... e6 {[%clk 0:02:09.7]} 9. Bxb5+ {[%clk 0:02:07.1]} 9... c6 {[%clk 0:02:06.9]} 10. Bd3 {[%clk 0:01:53.8]} 10... Qxd4 {[%clk 0:02:01.2]} 11. Ndf3 {[%clk 0:01:44.3]} 11... Qxb2 {[%clk 0:01:58.2]} 12. Ne5 {[%clk 0:01:37.4]} 12... Qxa1+ {[%clk 0:01:47.3]} 13. Ke2 {[%clk 0:01:34.7]} 13... Ke7 {[%clk 0:01:26.7]} 14. Qxf7+ {[%clk 0:01:31.5]} 14... Kd6 {[%clk 0:01:21.3]} 15. Nc4+ {[%clk 0:01:24]} 15... Kd5 {[%clk 0:01:14.4]} 16. Qf3+ {[%clk 0:01:20.2]} 16... Kc5 {[%clk 0:01:06]} 17. Qe3+ {[%clk 0:01:14.6]} 17... Kd5 {[%clk 0:01:00.5]} 18. Qe4+ {[%clk 0:01:10.5]} 18... Kc5 {[%clk 0:00:54.6]} 19. Qe5+ {[%clk 0:01:04.9]} 19... Kb4 {[%clk 0:00:48.9]} 20. Qxa1 {[%clk 0:01:00.8]} 1-0\n",
+    "move_number": 7
+  }
+}

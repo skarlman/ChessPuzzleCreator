@@ -1,0 +1,21 @@
+{
+  "id": "5ef756c4da995e00bb65329ec83658dd",
+  "position": "rnb1kbnr/pp3pp1/2pp1q1p/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+  "best_move": "c1e3",
+  "played_move": "f3e5",
+  "eval_diff": 353,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121214679092",
+    "white": "Mennborg",
+    "black": "Phil1411",
+    "timestamp": 1733086061,
+    "url": "https://www.chess.com/analysis/game/live/121214679092?tab=analysis&move=9",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.01\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"Phil1411\"]\n[Result \"0-1\"]\n[CurrentPosition \"rnb1kb1r/pp3p2/2p2n2/4q1p1/2B1P3/2N2Q2/PPP2PPP/R3K2R w KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"C40\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-McConnell-Defense\"]\n[UTCDate \"2024.12.01\"]\n[UTCTime \"20:45:56\"]\n[WhiteElo \"244\"]\n[BlackElo \"283\"]\n[TimeControl \"180\"]\n[Termination \"Phil1411 won by resignation\"]\n[StartTime \"20:45:56\"]\n[EndDate \"2024.12.01\"]\n[EndTime \"20:47:41\"]\n[Link \"https://www.chess.com/game/live/121214679092\"]\n\n1. e4 {[%clk 0:02:59.8]} 1... e5 {[%clk 0:02:59.1]} 2. Nf3 {[%clk 0:02:58.4]} 2... Qf6 {[%clk 0:02:59]} 3. Nc3 {[%clk 0:02:57.4]} 3... c6 {[%clk 0:02:57]} 4. d3 {[%clk 0:02:54.6]} 4... h6 {[%clk 0:02:50.9]} 5. d4 {[%clk 0:02:44.9]} 5... d6 {[%clk 0:02:38.8]} 6. Nxe5 {[%clk 0:02:42.1]} 6... dxe5 {[%clk 0:02:37.5]} 7. dxe5 {[%clk 0:02:40.7]} 7... Qxe5 {[%clk 0:02:35.7]} 8. Bc4 {[%clk 0:02:36]} 8... Nf6 {[%clk 0:02:23.6]} 9. Qf3 {[%clk 0:02:28.9]} 9... g5 {[%clk 0:02:08.5]} 10. Bxg5 {[%clk 0:02:27]} 10... hxg5 {[%clk 0:02:04.5]} 0-1\n",
+    "move_number": 6
+  }
+}

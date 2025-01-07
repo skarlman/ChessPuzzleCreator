@@ -1,0 +1,21 @@
+{
+  "id": "e0245f98ccfd9c82a42154d2fc3c7a09",
+  "position": "r1bk1b1r/pp1p1Qpp/1qn5/2p1P3/2B1n3/2N2N2/PPP2PPP/R1B1K2R w KQ - 1 9",
+  "best_move": "c3e4",
+  "played_move": "c3a4",
+  "eval_diff": 420,
+  "themes": [
+    "mistake"
+  ],
+  "turn_color": "white",
+  "turn_player": "Mennborg",
+  "game": {
+    "id": "121241411976",
+    "white": "Mennborg",
+    "black": "NekoMateo",
+    "timestamp": 1733213797,
+    "url": "https://www.chess.com/analysis/game/live/121241411976?tab=analysis&move=15",
+    "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.12.03\"]\n[Round \"-\"]\n[White \"Mennborg\"]\n[Black \"NekoMateo\"]\n[Result \"0-1\"]\n[CurrentPosition \"r1bk1b1r/pp1p1Qpp/8/2p3q1/8/1B6/P1P1KP1P/7R w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C43\"]\n[ECOUrl \"https://www.chess.com/openings/Petrovs-Defense-Steinitz-Attack-Symmetrical-Variation-4.dxe5\"]\n[UTCDate \"2024.12.03\"]\n[UTCTime \"08:12:14\"]\n[WhiteElo \"244\"]\n[BlackElo \"244\"]\n[TimeControl \"180\"]\n[Termination \"NekoMateo won on time\"]\n[StartTime \"08:12:14\"]\n[EndDate \"2024.12.03\"]\n[EndTime \"08:16:37\"]\n[Link \"https://www.chess.com/game/live/121241411976\"]\n\n1. e4 {[%clk 0:02:59.9]} 1... e5 {[%clk 0:02:56.4]} 2. d4 {[%clk 0:02:57]} 2... Nf6 {[%clk 0:02:55.9]} 3. dxe5 {[%clk 0:02:52.8]} 3... Nxe4 {[%clk 0:02:54.7]} 4. Nf3 {[%clk 0:02:40.1]} 4... c5 {[%clk 0:02:51.1]} 5. Bc4 {[%clk 0:02:28.5]} 5... Nc6 {[%clk 0:02:40.5]} 6. Qd5 {[%clk 0:02:26.6]} 6... Qa5+ {[%clk 0:02:23]} 7. Nc3 {[%clk 0:02:22.1]} 7... Qb6 {[%clk 0:02:12.6]} 8. Qxf7+ {[%clk 0:02:17.1]} 8... Kd8 {[%clk 0:02:08.3]} 9. Na4 {[%clk 0:02:07.8]} 9... Nxe5 {[%clk 0:02:03.6]} 10. Nxe5 {[%clk 0:02:02.5]} 10... Qa5+ {[%clk 0:01:56.1]} 11. Nc3 {[%clk 0:01:54.8]} 11... Nxc3 {[%clk 0:01:55.1]} 12. bxc3 {[%clk 0:01:53.6]} 12... Qxc3+ {[%clk 0:01:54.1]} 13. Kd1 {[%clk 0:01:49]} 13... Qxa1 {[%clk 0:01:53.7]} 14. Kd2 {[%clk 0:01:45.1]} 14... Qxe5 {[%clk 0:01:49.6]} 15. Bb3 {[%clk 0:01:39.1]} 15... Qg5+ {[%clk 0:01:44.1]} 16. Ke2 {[%clk 0:01:33.6]} 16... Qxg2 {[%clk 0:01:43.3]} 17. Bg5+ {[%clk 0:01:31.1]} 17... Qxg5 {[%clk 0:01:40.8]} 0-1\n",
+    "move_number": 9
+  }
+}
